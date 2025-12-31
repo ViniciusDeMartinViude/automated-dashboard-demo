@@ -1,0 +1,1601 @@
+RecordId,StudentId,StudentName,Gender,Course,Skill,Score,Attendance,SessionDate
+1,1,Rashid Al Shehhi,Male,Data Analysis,Excel,64,Present,2024-07-19
+2,1,Rashid Al Shehhi,Male,Data Analysis,Excel,79,Present,2024-07-01
+3,1,Rashid Al Shehhi,Male,Data Analysis,Excel,80,Present,2024-08-15
+4,1,Rashid Al Shehhi,Male,Data Analysis,Power BI,74,Present,2024-07-18
+5,1,Rashid Al Shehhi,Male,Data Analysis,SQL Basics,82,Present,2024-09-02
+6,1,Rashid Al Shehhi,Male,Data Analysis,Power BI,79,Present,2024-07-14
+7,1,Rashid Al Shehhi,Male,Data Analysis,Excel,60,Absent,2024-09-11
+8,1,Rashid Al Shehhi,Male,Data Analysis,SQL Basics,87,Present,2024-08-16
+9,2,Saeed Al Zaabi,Male,Python Basics,Functions,100,Present,2024-08-02
+10,2,Saeed Al Zaabi,Male,Python Basics,Debugging,85,Present,2024-08-17
+11,2,Saeed Al Zaabi,Male,Python Basics,OOP,100,Present,2024-08-12
+12,2,Saeed Al Zaabi,Male,Python Basics,Functions,96,Present,2024-07-07
+13,2,Saeed Al Zaabi,Male,Python Basics,Debugging,63,Present,2024-09-17
+14,2,Saeed Al Zaabi,Male,Python Basics,Files,80,Present,2024-08-27
+15,2,Saeed Al Zaabi,Male,Python Basics,Files,87,Present,2024-07-20
+16,2,Saeed Al Zaabi,Male,Python Basics,Loops,96,Present,2024-09-15
+17,3,Rashid Al Marri,Male,Python Basics,Data Types,55,Present,2024-08-01
+18,3,Rashid Al Marri,Male,Python Basics,Functions,63,Absent,2024-08-25
+19,3,Rashid Al Marri,Male,Python Basics,Debugging,51,Present,2024-07-03
+20,3,Rashid Al Marri,Male,Python Basics,Files,68,Present,2024-07-19
+21,3,Rashid Al Marri,Male,Python Basics,Debugging,59,Present,2024-07-11
+22,3,Rashid Al Marri,Male,Python Basics,Data Types,57,Present,2024-07-21
+23,3,Rashid Al Marri,Male,Python Basics,OOP,80,Present,2024-08-04
+24,3,Rashid Al Marri,Male,Python Basics,Data Types,76,Present,2024-09-14
+25,4,Rashid Al Balushi,Male,Python Basics,Files,53,Present,2024-08-10
+26,4,Rashid Al Balushi,Male,Python Basics,Functions,62,Present,2024-09-22
+27,4,Rashid Al Balushi,Male,Python Basics,Data Types,58,Absent,2024-09-28
+28,4,Rashid Al Balushi,Male,Python Basics,OOP,51,Present,2024-09-25
+29,4,Rashid Al Balushi,Male,Python Basics,Loops,61,Present,2024-07-13
+30,4,Rashid Al Balushi,Male,Python Basics,Loops,80,Present,2024-08-25
+31,4,Rashid Al Balushi,Male,Python Basics,Data Types,76,Present,2024-08-01
+32,4,Rashid Al Balushi,Male,Python Basics,Loops,67,Absent,2024-07-05
+33,5,Saeed Al Awadhi,Male,Data Analysis,SQL Basics,72,Present,2024-08-25
+34,5,Saeed Al Awadhi,Male,Data Analysis,Statistics,62,Absent,2024-08-13
+35,5,Saeed Al Awadhi,Male,Data Analysis,Data Cleaning,93,Present,2024-08-03
+36,5,Saeed Al Awadhi,Male,Data Analysis,Visualization,71,Present,2024-07-16
+37,5,Saeed Al Awadhi,Male,Data Analysis,Statistics,86,Present,2024-07-01
+38,5,Saeed Al Awadhi,Male,Data Analysis,Visualization,86,Present,2024-08-17
+39,5,Saeed Al Awadhi,Male,Data Analysis,Power BI,84,Present,2024-07-03
+40,5,Saeed Al Awadhi,Male,Data Analysis,Visualization,78,Present,2024-09-03
+41,6,Nasser Al Shamsi,Male,Python Basics,Functions,85,Present,2024-08-28
+42,6,Nasser Al Shamsi,Male,Python Basics,Files,93,Absent,2024-09-08
+43,6,Nasser Al Shamsi,Male,Python Basics,Data Types,93,Present,2024-09-22
+44,6,Nasser Al Shamsi,Male,Python Basics,Loops,93,Present,2024-07-04
+45,6,Nasser Al Shamsi,Male,Python Basics,Data Types,91,Present,2024-08-31
+46,6,Nasser Al Shamsi,Male,Python Basics,Functions,86,Present,2024-08-28
+47,6,Nasser Al Shamsi,Male,Python Basics,Files,81,Present,2024-09-28
+48,6,Nasser Al Shamsi,Male,Python Basics,OOP,89,Present,2024-07-22
+49,7,Abdullah Al Qasimi,Male,Python Basics,Data Types,100,Present,2024-08-27
+50,7,Abdullah Al Qasimi,Male,Python Basics,OOP,89,Present,2024-08-04
+51,7,Abdullah Al Qasimi,Male,Python Basics,Functions,72,Present,2024-09-12
+52,7,Abdullah Al Qasimi,Male,Python Basics,Files,100,Present,2024-09-24
+53,7,Abdullah Al Qasimi,Male,Python Basics,Debugging,100,Present,2024-07-12
+54,7,Abdullah Al Qasimi,Male,Python Basics,Loops,87,Present,2024-09-22
+55,7,Abdullah Al Qasimi,Male,Python Basics,Data Types,93,Present,2024-07-24
+56,7,Abdullah Al Qasimi,Male,Python Basics,Data Types,86,Absent,2024-07-27
+57,8,Rashid Al Mazrouei,Male,Web Development,Forms,88,Present,2024-09-17
+58,8,Rashid Al Mazrouei,Male,Web Development,HTML/CSS,79,Present,2024-09-20
+59,8,Rashid Al Mazrouei,Male,Web Development,APIs,96,Present,2024-07-05
+60,8,Rashid Al Mazrouei,Male,Web Development,Responsive Design,91,Present,2024-08-22
+61,8,Rashid Al Mazrouei,Male,Web Development,Forms,83,Present,2024-08-02
+62,8,Rashid Al Mazrouei,Male,Web Development,Debugging,85,Present,2024-09-15
+63,8,Rashid Al Mazrouei,Male,Web Development,Forms,77,Present,2024-07-02
+64,8,Rashid Al Mazrouei,Male,Web Development,JavaScript,88,Present,2024-07-08
+65,9,Nasser Al Marri,Male,IT Fundamentals,Troubleshooting,71,Present,2024-08-27
+66,9,Nasser Al Marri,Male,IT Fundamentals,Hardware,74,Present,2024-08-04
+67,9,Nasser Al Marri,Male,IT Fundamentals,Security Basics,49,Present,2024-08-02
+68,9,Nasser Al Marri,Male,IT Fundamentals,Security Basics,82,Present,2024-09-20
+69,9,Nasser Al Marri,Male,IT Fundamentals,Networking,62,Present,2024-09-05
+70,9,Nasser Al Marri,Male,IT Fundamentals,Security Basics,78,Absent,2024-08-16
+71,9,Nasser Al Marri,Male,IT Fundamentals,Networking,69,Present,2024-09-07
+72,9,Nasser Al Marri,Male,IT Fundamentals,Troubleshooting,50,Present,2024-07-29
+73,10,Nasser Al Kaabi,Male,Web Development,JavaScript,75,Absent,2024-09-11
+74,10,Nasser Al Kaabi,Male,Web Development,Debugging,69,Present,2024-07-25
+75,10,Nasser Al Kaabi,Male,Web Development,Responsive Design,75,Present,2024-08-19
+76,10,Nasser Al Kaabi,Male,Web Development,APIs,76,Present,2024-07-16
+77,10,Nasser Al Kaabi,Male,Web Development,Responsive Design,80,Present,2024-08-10
+78,10,Nasser Al Kaabi,Male,Web Development,JavaScript,75,Present,2024-08-23
+79,10,Nasser Al Kaabi,Male,Web Development,APIs,62,Present,2024-09-06
+80,10,Nasser Al Kaabi,Male,Web Development,Responsive Design,68,Present,2024-07-29
+81,11,Rashid Al Darmaki,Male,IT Fundamentals,Troubleshooting,77,Present,2024-08-15
+82,11,Rashid Al Darmaki,Male,IT Fundamentals,Networking,65,Present,2024-08-30
+83,11,Rashid Al Darmaki,Male,IT Fundamentals,Troubleshooting,74,Present,2024-08-14
+84,11,Rashid Al Darmaki,Male,IT Fundamentals,Hardware,64,Present,2024-07-06
+85,11,Rashid Al Darmaki,Male,IT Fundamentals,IT Support,47,Present,2024-09-29
+86,11,Rashid Al Darmaki,Male,IT Fundamentals,Operating Systems,63,Present,2024-09-08
+87,11,Rashid Al Darmaki,Male,IT Fundamentals,Troubleshooting,76,Present,2024-09-12
+88,11,Rashid Al Darmaki,Male,IT Fundamentals,Security Basics,89,Present,2024-08-16
+89,12,Nasser Al Neyadi,Male,Web Development,JavaScript,63,Absent,2024-09-10
+90,12,Nasser Al Neyadi,Male,Web Development,Forms,76,Present,2024-07-10
+91,12,Nasser Al Neyadi,Male,Web Development,Debugging,76,Present,2024-09-05
+92,12,Nasser Al Neyadi,Male,Web Development,Debugging,85,Present,2024-08-19
+93,12,Nasser Al Neyadi,Male,Web Development,JavaScript,67,Present,2024-08-21
+94,12,Nasser Al Neyadi,Male,Web Development,Responsive Design,84,Present,2024-07-28
+95,12,Nasser Al Neyadi,Male,Web Development,Debugging,68,Present,2024-09-23
+96,12,Nasser Al Neyadi,Male,Web Development,Forms,76,Present,2024-08-11
+97,13,Hamdan Al Balushi,Male,Web Development,JavaScript,41,Present,2024-07-23
+98,13,Hamdan Al Balushi,Male,Web Development,JavaScript,59,Present,2024-08-27
+99,13,Hamdan Al Balushi,Male,Web Development,Debugging,43,Absent,2024-08-12
+100,13,Hamdan Al Balushi,Male,Web Development,JavaScript,45,Present,2024-08-14
+101,13,Hamdan Al Balushi,Male,Web Development,Debugging,61,Present,2024-09-29
+102,13,Hamdan Al Balushi,Male,Web Development,Responsive Design,79,Present,2024-07-04
+103,13,Hamdan Al Balushi,Male,Web Development,Forms,50,Present,2024-08-06
+104,13,Hamdan Al Balushi,Male,Web Development,Debugging,52,Absent,2024-09-12
+105,14,Nasser Al Mansoori,Male,IT Fundamentals,IT Support,56,Present,2024-09-19
+106,14,Nasser Al Mansoori,Male,IT Fundamentals,Troubleshooting,60,Present,2024-08-05
+107,14,Nasser Al Mansoori,Male,IT Fundamentals,Security Basics,54,Absent,2024-07-02
+108,14,Nasser Al Mansoori,Male,IT Fundamentals,Troubleshooting,63,Present,2024-08-23
+109,14,Nasser Al Mansoori,Male,IT Fundamentals,Troubleshooting,53,Present,2024-09-19
+110,14,Nasser Al Mansoori,Male,IT Fundamentals,Hardware,66,Present,2024-07-24
+111,14,Nasser Al Mansoori,Male,IT Fundamentals,Networking,74,Present,2024-08-20
+112,14,Nasser Al Mansoori,Male,IT Fundamentals,Networking,76,Absent,2024-07-11
+113,15,Faisal Al Marri,Male,Web Development,APIs,57,Present,2024-07-14
+114,15,Faisal Al Marri,Male,Web Development,HTML/CSS,70,Present,2024-09-12
+115,15,Faisal Al Marri,Male,Web Development,Forms,73,Present,2024-08-16
+116,15,Faisal Al Marri,Male,Web Development,APIs,72,Present,2024-07-15
+117,15,Faisal Al Marri,Male,Web Development,APIs,78,Present,2024-08-22
+118,15,Faisal Al Marri,Male,Web Development,Forms,84,Present,2024-07-12
+119,15,Faisal Al Marri,Male,Web Development,APIs,60,Present,2024-07-10
+120,15,Faisal Al Marri,Male,Web Development,Responsive Design,74,Present,2024-09-17
+121,16,Mohammed Al Shamsi,Male,Python Basics,Functions,56,Present,2024-09-01
+122,16,Mohammed Al Shamsi,Male,Python Basics,Data Types,79,Present,2024-07-31
+123,16,Mohammed Al Shamsi,Male,Python Basics,Functions,65,Absent,2024-08-04
+124,16,Mohammed Al Shamsi,Male,Python Basics,Data Types,57,Present,2024-07-06
+125,16,Mohammed Al Shamsi,Male,Python Basics,Loops,77,Absent,2024-09-07
+126,16,Mohammed Al Shamsi,Male,Python Basics,Data Types,60,Present,2024-09-28
+127,16,Mohammed Al Shamsi,Male,Python Basics,OOP,64,Present,2024-08-20
+128,16,Mohammed Al Shamsi,Male,Python Basics,Files,67,Absent,2024-07-27
+129,17,Abdullah Al Kaabi,Male,IT Fundamentals,IT Support,74,Present,2024-07-03
+130,17,Abdullah Al Kaabi,Male,IT Fundamentals,IT Support,84,Present,2024-08-27
+131,17,Abdullah Al Kaabi,Male,IT Fundamentals,IT Support,67,Absent,2024-08-31
+132,17,Abdullah Al Kaabi,Male,IT Fundamentals,Hardware,76,Present,2024-09-22
+133,17,Abdullah Al Kaabi,Male,IT Fundamentals,Troubleshooting,58,Present,2024-09-06
+134,17,Abdullah Al Kaabi,Male,IT Fundamentals,Networking,67,Present,2024-08-10
+135,17,Abdullah Al Kaabi,Male,IT Fundamentals,Hardware,63,Present,2024-07-06
+136,17,Abdullah Al Kaabi,Male,IT Fundamentals,IT Support,44,Present,2024-07-17
+137,18,Ahmed Al Shehhi,Male,IT Fundamentals,Operating Systems,100,Present,2024-08-31
+138,18,Ahmed Al Shehhi,Male,IT Fundamentals,Security Basics,94,Present,2024-07-21
+139,18,Ahmed Al Shehhi,Male,IT Fundamentals,Security Basics,83,Present,2024-09-05
+140,18,Ahmed Al Shehhi,Male,IT Fundamentals,Networking,87,Present,2024-08-08
+141,18,Ahmed Al Shehhi,Male,IT Fundamentals,Security Basics,80,Present,2024-07-26
+142,18,Ahmed Al Shehhi,Male,IT Fundamentals,Security Basics,76,Present,2024-09-14
+143,18,Ahmed Al Shehhi,Male,IT Fundamentals,Networking,77,Present,2024-08-18
+144,18,Ahmed Al Shehhi,Male,IT Fundamentals,Security Basics,86,Present,2024-07-23
+145,19,Hamdan Al Mazrouei,Male,IT Fundamentals,Operating Systems,64,Present,2024-09-02
+146,19,Hamdan Al Mazrouei,Male,IT Fundamentals,Networking,59,Present,2024-08-26
+147,19,Hamdan Al Mazrouei,Male,IT Fundamentals,IT Support,68,Present,2024-07-24
+148,19,Hamdan Al Mazrouei,Male,IT Fundamentals,Operating Systems,63,Present,2024-07-07
+149,19,Hamdan Al Mazrouei,Male,IT Fundamentals,Troubleshooting,53,Present,2024-09-07
+150,19,Hamdan Al Mazrouei,Male,IT Fundamentals,Operating Systems,65,Present,2024-08-12
+151,19,Hamdan Al Mazrouei,Male,IT Fundamentals,Troubleshooting,75,Absent,2024-08-20
+152,19,Hamdan Al Mazrouei,Male,IT Fundamentals,Troubleshooting,57,Present,2024-09-13
+153,20,Faisal Al Kaabi,Male,Python Basics,Functions,74,Present,2024-09-12
+154,20,Faisal Al Kaabi,Male,Python Basics,Debugging,78,Present,2024-08-12
+155,20,Faisal Al Kaabi,Male,Python Basics,Files,84,Absent,2024-07-23
+156,20,Faisal Al Kaabi,Male,Python Basics,Debugging,82,Present,2024-07-13
+157,20,Faisal Al Kaabi,Male,Python Basics,OOP,72,Present,2024-07-08
+158,20,Faisal Al Kaabi,Male,Python Basics,Loops,84,Present,2024-07-11
+159,20,Faisal Al Kaabi,Male,Python Basics,Functions,96,Absent,2024-07-14
+160,20,Faisal Al Kaabi,Male,Python Basics,Data Types,100,Present,2024-07-03
+161,21,Mohammed Al Zaabi,Male,IT Fundamentals,Networking,63,Present,2024-09-24
+162,21,Mohammed Al Zaabi,Male,IT Fundamentals,Security Basics,61,Present,2024-08-24
+163,21,Mohammed Al Zaabi,Male,IT Fundamentals,Troubleshooting,57,Present,2024-09-18
+164,21,Mohammed Al Zaabi,Male,IT Fundamentals,Operating Systems,65,Present,2024-08-11
+165,21,Mohammed Al Zaabi,Male,IT Fundamentals,Security Basics,68,Present,2024-07-16
+166,21,Mohammed Al Zaabi,Male,IT Fundamentals,Networking,44,Present,2024-09-21
+167,21,Mohammed Al Zaabi,Male,IT Fundamentals,Operating Systems,58,Present,2024-09-12
+168,21,Mohammed Al Zaabi,Male,IT Fundamentals,Security Basics,46,Present,2024-08-17
+169,22,Khalid Al Qubaisi,Male,IT Fundamentals,IT Support,68,Absent,2024-07-22
+170,22,Khalid Al Qubaisi,Male,IT Fundamentals,Hardware,50,Present,2024-09-23
+171,22,Khalid Al Qubaisi,Male,IT Fundamentals,Networking,79,Present,2024-09-16
+172,22,Khalid Al Qubaisi,Male,IT Fundamentals,Networking,74,Present,2024-07-08
+173,22,Khalid Al Qubaisi,Male,IT Fundamentals,IT Support,62,Present,2024-08-08
+174,22,Khalid Al Qubaisi,Male,IT Fundamentals,Operating Systems,70,Present,2024-09-18
+175,22,Khalid Al Qubaisi,Male,IT Fundamentals,IT Support,52,Absent,2024-08-07
+176,22,Khalid Al Qubaisi,Male,IT Fundamentals,Security Basics,69,Present,2024-08-13
+177,23,Nasser Al Awadhi,Male,IT Fundamentals,Security Basics,92,Present,2024-07-01
+178,23,Nasser Al Awadhi,Male,IT Fundamentals,Operating Systems,78,Present,2024-09-04
+179,23,Nasser Al Awadhi,Male,IT Fundamentals,Troubleshooting,81,Present,2024-07-23
+180,23,Nasser Al Awadhi,Male,IT Fundamentals,Hardware,89,Present,2024-09-18
+181,23,Nasser Al Awadhi,Male,IT Fundamentals,Networking,61,Absent,2024-07-01
+182,23,Nasser Al Awadhi,Male,IT Fundamentals,Troubleshooting,73,Present,2024-08-06
+183,23,Nasser Al Awadhi,Male,IT Fundamentals,Networking,81,Present,2024-07-08
+184,23,Nasser Al Awadhi,Male,IT Fundamentals,Operating Systems,84,Present,2024-08-07
+185,24,Mohammed Al Darmaki,Male,IT Fundamentals,Hardware,67,Absent,2024-08-19
+186,24,Mohammed Al Darmaki,Male,IT Fundamentals,Security Basics,51,Absent,2024-07-30
+187,24,Mohammed Al Darmaki,Male,IT Fundamentals,Networking,55,Present,2024-09-09
+188,24,Mohammed Al Darmaki,Male,IT Fundamentals,Operating Systems,64,Present,2024-08-18
+189,24,Mohammed Al Darmaki,Male,IT Fundamentals,Networking,62,Absent,2024-07-02
+190,24,Mohammed Al Darmaki,Male,IT Fundamentals,Networking,60,Present,2024-09-10
+191,24,Mohammed Al Darmaki,Male,IT Fundamentals,Troubleshooting,60,Present,2024-08-09
+192,24,Mohammed Al Darmaki,Male,IT Fundamentals,Operating Systems,69,Present,2024-07-17
+193,25,Mohammed Al Darmaki,Male,Data Analysis,SQL Basics,68,Present,2024-09-25
+194,25,Mohammed Al Darmaki,Male,Data Analysis,Visualization,57,Absent,2024-09-05
+195,25,Mohammed Al Darmaki,Male,Data Analysis,Statistics,65,Present,2024-08-05
+196,25,Mohammed Al Darmaki,Male,Data Analysis,SQL Basics,59,Present,2024-07-05
+197,25,Mohammed Al Darmaki,Male,Data Analysis,Statistics,52,Present,2024-09-15
+198,25,Mohammed Al Darmaki,Male,Data Analysis,Visualization,69,Present,2024-09-09
+199,25,Mohammed Al Darmaki,Male,Data Analysis,Excel,53,Absent,2024-07-16
+200,25,Mohammed Al Darmaki,Male,Data Analysis,Power BI,72,Present,2024-09-04
+201,26,Saeed Al Shamsi,Male,Web Development,Responsive Design,98,Absent,2024-08-05
+202,26,Saeed Al Shamsi,Male,Web Development,HTML/CSS,96,Absent,2024-09-05
+203,26,Saeed Al Shamsi,Male,Web Development,Responsive Design,81,Present,2024-08-17
+204,26,Saeed Al Shamsi,Male,Web Development,Forms,96,Present,2024-08-17
+205,26,Saeed Al Shamsi,Male,Web Development,Responsive Design,76,Present,2024-07-01
+206,26,Saeed Al Shamsi,Male,Web Development,JavaScript,77,Present,2024-07-15
+207,26,Saeed Al Shamsi,Male,Web Development,Forms,81,Present,2024-09-24
+208,26,Saeed Al Shamsi,Male,Web Development,Forms,98,Present,2024-07-31
+209,27,Nasser Al Dhaheri,Male,IT Fundamentals,Operating Systems,62,Present,2024-08-08
+210,27,Nasser Al Dhaheri,Male,IT Fundamentals,Hardware,58,Present,2024-09-22
+211,27,Nasser Al Dhaheri,Male,IT Fundamentals,Security Basics,59,Absent,2024-08-24
+212,27,Nasser Al Dhaheri,Male,IT Fundamentals,Security Basics,60,Present,2024-07-15
+213,27,Nasser Al Dhaheri,Male,IT Fundamentals,Hardware,65,Present,2024-07-11
+214,27,Nasser Al Dhaheri,Male,IT Fundamentals,Operating Systems,53,Present,2024-08-15
+215,27,Nasser Al Dhaheri,Male,IT Fundamentals,Security Basics,68,Present,2024-07-19
+216,27,Nasser Al Dhaheri,Male,IT Fundamentals,IT Support,56,Absent,2024-08-20
+217,28,Nasser Al Ameri,Male,Web Development,APIs,71,Present,2024-08-01
+218,28,Nasser Al Ameri,Male,Web Development,Forms,95,Present,2024-09-04
+219,28,Nasser Al Ameri,Male,Web Development,APIs,87,Absent,2024-08-27
+220,28,Nasser Al Ameri,Male,Web Development,Debugging,74,Present,2024-07-15
+221,28,Nasser Al Ameri,Male,Web Development,APIs,54,Present,2024-07-24
+222,28,Nasser Al Ameri,Male,Web Development,Debugging,83,Absent,2024-08-18
+223,28,Nasser Al Ameri,Male,Web Development,Responsive Design,75,Present,2024-09-18
+224,28,Nasser Al Ameri,Male,Web Development,JavaScript,80,Present,2024-09-09
+225,29,Mohammed Al Marri,Male,Data Analysis,Visualization,81,Present,2024-09-21
+226,29,Mohammed Al Marri,Male,Data Analysis,Statistics,64,Absent,2024-09-24
+227,29,Mohammed Al Marri,Male,Data Analysis,Visualization,78,Absent,2024-09-25
+228,29,Mohammed Al Marri,Male,Data Analysis,SQL Basics,78,Present,2024-07-21
+229,29,Mohammed Al Marri,Male,Data Analysis,Statistics,76,Present,2024-09-22
+230,29,Mohammed Al Marri,Male,Data Analysis,Power BI,85,Present,2024-07-09
+231,29,Mohammed Al Marri,Male,Data Analysis,Data Cleaning,75,Present,2024-07-23
+232,29,Mohammed Al Marri,Male,Data Analysis,Statistics,66,Absent,2024-07-27
+233,30,Saeed Al Marri,Male,IT Fundamentals,Hardware,92,Present,2024-09-08
+234,30,Saeed Al Marri,Male,IT Fundamentals,Hardware,84,Present,2024-09-22
+235,30,Saeed Al Marri,Male,IT Fundamentals,Security Basics,77,Present,2024-09-08
+236,30,Saeed Al Marri,Male,IT Fundamentals,Security Basics,64,Present,2024-09-08
+237,30,Saeed Al Marri,Male,IT Fundamentals,IT Support,86,Present,2024-07-20
+238,30,Saeed Al Marri,Male,IT Fundamentals,Troubleshooting,74,Present,2024-07-01
+239,30,Saeed Al Marri,Male,IT Fundamentals,IT Support,80,Present,2024-07-12
+240,30,Saeed Al Marri,Male,IT Fundamentals,Operating Systems,91,Absent,2024-09-25
+241,31,Khalid Al Shehhi,Male,IT Fundamentals,Hardware,83,Absent,2024-09-16
+242,31,Khalid Al Shehhi,Male,IT Fundamentals,Security Basics,84,Present,2024-08-16
+243,31,Khalid Al Shehhi,Male,IT Fundamentals,Hardware,72,Present,2024-07-23
+244,31,Khalid Al Shehhi,Male,IT Fundamentals,Networking,66,Present,2024-08-25
+245,31,Khalid Al Shehhi,Male,IT Fundamentals,Hardware,66,Present,2024-07-26
+246,31,Khalid Al Shehhi,Male,IT Fundamentals,Operating Systems,59,Present,2024-09-08
+247,31,Khalid Al Shehhi,Male,IT Fundamentals,Troubleshooting,76,Present,2024-09-03
+248,31,Khalid Al Shehhi,Male,IT Fundamentals,IT Support,79,Present,2024-08-28
+249,32,Hamdan Al Shamsi,Male,Python Basics,Files,46,Present,2024-09-22
+250,32,Hamdan Al Shamsi,Male,Python Basics,Files,59,Absent,2024-09-11
+251,32,Hamdan Al Shamsi,Male,Python Basics,OOP,53,Present,2024-09-20
+252,32,Hamdan Al Shamsi,Male,Python Basics,Loops,63,Present,2024-07-31
+253,32,Hamdan Al Shamsi,Male,Python Basics,Data Types,57,Present,2024-07-20
+254,32,Hamdan Al Shamsi,Male,Python Basics,Files,66,Present,2024-08-26
+255,32,Hamdan Al Shamsi,Male,Python Basics,Files,61,Absent,2024-09-21
+256,32,Hamdan Al Shamsi,Male,Python Basics,Loops,55,Present,2024-08-16
+257,33,Mohammed Al Suwaidi,Male,Data Analysis,SQL Basics,78,Present,2024-08-04
+258,33,Mohammed Al Suwaidi,Male,Data Analysis,Visualization,100,Present,2024-09-04
+259,33,Mohammed Al Suwaidi,Male,Data Analysis,Power BI,70,Present,2024-08-15
+260,33,Mohammed Al Suwaidi,Male,Data Analysis,Data Cleaning,89,Present,2024-09-15
+261,33,Mohammed Al Suwaidi,Male,Data Analysis,Statistics,96,Absent,2024-08-12
+262,33,Mohammed Al Suwaidi,Male,Data Analysis,Statistics,81,Absent,2024-07-03
+263,33,Mohammed Al Suwaidi,Male,Data Analysis,Power BI,100,Absent,2024-08-04
+264,33,Mohammed Al Suwaidi,Male,Data Analysis,Statistics,100,Present,2024-09-15
+265,34,Khalid Al Neyadi,Male,Python Basics,Files,68,Absent,2024-08-29
+266,34,Khalid Al Neyadi,Male,Python Basics,Functions,71,Present,2024-08-29
+267,34,Khalid Al Neyadi,Male,Python Basics,Loops,61,Absent,2024-07-17
+268,34,Khalid Al Neyadi,Male,Python Basics,OOP,67,Absent,2024-09-13
+269,34,Khalid Al Neyadi,Male,Python Basics,Files,56,Present,2024-08-03
+270,34,Khalid Al Neyadi,Male,Python Basics,Loops,58,Present,2024-09-04
+271,34,Khalid Al Neyadi,Male,Python Basics,Files,63,Present,2024-08-22
+272,34,Khalid Al Neyadi,Male,Python Basics,Functions,67,Present,2024-09-14
+273,35,Mohammed Al Falasi,Male,Data Analysis,Data Cleaning,40,Present,2024-07-23
+274,35,Mohammed Al Falasi,Male,Data Analysis,Power BI,68,Present,2024-08-23
+275,35,Mohammed Al Falasi,Male,Data Analysis,Visualization,57,Present,2024-07-04
+276,35,Mohammed Al Falasi,Male,Data Analysis,SQL Basics,61,Present,2024-08-31
+277,35,Mohammed Al Falasi,Male,Data Analysis,Data Cleaning,49,Present,2024-08-19
+278,35,Mohammed Al Falasi,Male,Data Analysis,SQL Basics,56,Present,2024-07-25
+279,35,Mohammed Al Falasi,Male,Data Analysis,Data Cleaning,42,Absent,2024-09-24
+280,35,Mohammed Al Falasi,Male,Data Analysis,Visualization,53,Absent,2024-08-12
+281,36,Hamdan Al Dhaheri,Male,Data Analysis,Statistics,80,Absent,2024-08-04
+282,36,Hamdan Al Dhaheri,Male,Data Analysis,SQL Basics,94,Present,2024-07-28
+283,36,Hamdan Al Dhaheri,Male,Data Analysis,Power BI,93,Present,2024-08-31
+284,36,Hamdan Al Dhaheri,Male,Data Analysis,SQL Basics,66,Present,2024-09-12
+285,36,Hamdan Al Dhaheri,Male,Data Analysis,Data Cleaning,73,Present,2024-09-04
+286,36,Hamdan Al Dhaheri,Male,Data Analysis,Power BI,94,Present,2024-09-25
+287,36,Hamdan Al Dhaheri,Male,Data Analysis,Visualization,65,Absent,2024-08-20
+288,36,Hamdan Al Dhaheri,Male,Data Analysis,Excel,72,Absent,2024-08-30
+289,37,Ali Al Qasimi,Male,Web Development,Debugging,40,Present,2024-08-13
+290,37,Ali Al Qasimi,Male,Web Development,Responsive Design,71,Absent,2024-09-15
+291,37,Ali Al Qasimi,Male,Web Development,Forms,74,Present,2024-09-04
+292,37,Ali Al Qasimi,Male,Web Development,Forms,40,Present,2024-09-10
+293,37,Ali Al Qasimi,Male,Web Development,Forms,75,Present,2024-08-08
+294,37,Ali Al Qasimi,Male,Web Development,JavaScript,60,Present,2024-08-21
+295,37,Ali Al Qasimi,Male,Web Development,JavaScript,64,Present,2024-09-07
+296,37,Ali Al Qasimi,Male,Web Development,JavaScript,67,Present,2024-09-06
+297,38,Saeed Al Nahyan,Male,Data Analysis,Excel,59,Present,2024-08-06
+298,38,Saeed Al Nahyan,Male,Data Analysis,Statistics,64,Present,2024-08-25
+299,38,Saeed Al Nahyan,Male,Data Analysis,SQL Basics,40,Absent,2024-09-29
+300,38,Saeed Al Nahyan,Male,Data Analysis,Statistics,45,Present,2024-07-29
+301,38,Saeed Al Nahyan,Male,Data Analysis,SQL Basics,57,Present,2024-07-02
+302,38,Saeed Al Nahyan,Male,Data Analysis,Statistics,75,Present,2024-07-04
+303,38,Saeed Al Nahyan,Male,Data Analysis,Excel,73,Present,2024-08-08
+304,38,Saeed Al Nahyan,Male,Data Analysis,Visualization,54,Absent,2024-08-15
+305,39,Hamdan Al Balushi,Male,Web Development,APIs,59,Present,2024-09-21
+306,39,Hamdan Al Balushi,Male,Web Development,Debugging,50,Present,2024-07-10
+307,39,Hamdan Al Balushi,Male,Web Development,APIs,56,Present,2024-09-10
+308,39,Hamdan Al Balushi,Male,Web Development,JavaScript,49,Present,2024-07-31
+309,39,Hamdan Al Balushi,Male,Web Development,Responsive Design,64,Present,2024-09-29
+310,39,Hamdan Al Balushi,Male,Web Development,Responsive Design,67,Absent,2024-07-11
+311,39,Hamdan Al Balushi,Male,Web Development,JavaScript,52,Present,2024-08-15
+312,39,Hamdan Al Balushi,Male,Web Development,APIs,46,Absent,2024-08-01
+313,40,Ahmed Al Shehhi,Male,IT Fundamentals,IT Support,82,Present,2024-09-06
+314,40,Ahmed Al Shehhi,Male,IT Fundamentals,Hardware,81,Present,2024-08-28
+315,40,Ahmed Al Shehhi,Male,IT Fundamentals,IT Support,72,Present,2024-09-03
+316,40,Ahmed Al Shehhi,Male,IT Fundamentals,Networking,82,Present,2024-09-25
+317,40,Ahmed Al Shehhi,Male,IT Fundamentals,Troubleshooting,83,Present,2024-07-11
+318,40,Ahmed Al Shehhi,Male,IT Fundamentals,IT Support,78,Present,2024-09-13
+319,40,Ahmed Al Shehhi,Male,IT Fundamentals,IT Support,87,Present,2024-08-23
+320,40,Ahmed Al Shehhi,Male,IT Fundamentals,Security Basics,83,Present,2024-08-23
+321,41,Ali Al Mansoori,Male,Data Analysis,Excel,93,Present,2024-09-25
+322,41,Ali Al Mansoori,Male,Data Analysis,Visualization,77,Present,2024-09-05
+323,41,Ali Al Mansoori,Male,Data Analysis,Excel,98,Present,2024-07-28
+324,41,Ali Al Mansoori,Male,Data Analysis,Power BI,81,Present,2024-08-28
+325,41,Ali Al Mansoori,Male,Data Analysis,Power BI,92,Present,2024-09-14
+326,41,Ali Al Mansoori,Male,Data Analysis,Power BI,89,Present,2024-07-03
+327,41,Ali Al Mansoori,Male,Data Analysis,Data Cleaning,85,Absent,2024-07-06
+328,41,Ali Al Mansoori,Male,Data Analysis,Power BI,80,Present,2024-07-04
+329,42,Saeed Al Zaabi,Male,Data Analysis,Data Cleaning,89,Present,2024-08-25
+330,42,Saeed Al Zaabi,Male,Data Analysis,Visualization,88,Present,2024-08-17
+331,42,Saeed Al Zaabi,Male,Data Analysis,Statistics,91,Absent,2024-08-05
+332,42,Saeed Al Zaabi,Male,Data Analysis,Data Cleaning,100,Present,2024-08-16
+333,42,Saeed Al Zaabi,Male,Data Analysis,Power BI,68,Present,2024-08-13
+334,42,Saeed Al Zaabi,Male,Data Analysis,SQL Basics,88,Present,2024-08-07
+335,42,Saeed Al Zaabi,Male,Data Analysis,Excel,88,Present,2024-09-29
+336,42,Saeed Al Zaabi,Male,Data Analysis,Data Cleaning,88,Present,2024-09-05
+337,43,Khalid Al Darmaki,Male,Python Basics,Data Types,54,Present,2024-08-16
+338,43,Khalid Al Darmaki,Male,Python Basics,Files,51,Present,2024-07-31
+339,43,Khalid Al Darmaki,Male,Python Basics,Debugging,41,Absent,2024-07-01
+340,43,Khalid Al Darmaki,Male,Python Basics,Files,69,Present,2024-09-11
+341,43,Khalid Al Darmaki,Male,Python Basics,Debugging,50,Absent,2024-07-09
+342,43,Khalid Al Darmaki,Male,Python Basics,Debugging,51,Present,2024-08-04
+343,43,Khalid Al Darmaki,Male,Python Basics,Data Types,55,Present,2024-07-01
+344,43,Khalid Al Darmaki,Male,Python Basics,Data Types,49,Present,2024-08-26
+345,44,Faisal Al Mazrouei,Male,Data Analysis,Excel,84,Present,2024-09-10
+346,44,Faisal Al Mazrouei,Male,Data Analysis,Visualization,73,Present,2024-07-02
+347,44,Faisal Al Mazrouei,Male,Data Analysis,SQL Basics,63,Present,2024-07-03
+348,44,Faisal Al Mazrouei,Male,Data Analysis,Power BI,65,Present,2024-07-22
+349,44,Faisal Al Mazrouei,Male,Data Analysis,Excel,77,Absent,2024-07-19
+350,44,Faisal Al Mazrouei,Male,Data Analysis,Visualization,82,Present,2024-07-20
+351,44,Faisal Al Mazrouei,Male,Data Analysis,Data Cleaning,97,Present,2024-08-10
+352,44,Faisal Al Mazrouei,Male,Data Analysis,SQL Basics,87,Present,2024-09-19
+353,45,Rashid Al Suwaidi,Male,Python Basics,Files,72,Present,2024-08-14
+354,45,Rashid Al Suwaidi,Male,Python Basics,Data Types,92,Present,2024-09-18
+355,45,Rashid Al Suwaidi,Male,Python Basics,Data Types,78,Absent,2024-07-27
+356,45,Rashid Al Suwaidi,Male,Python Basics,Data Types,63,Present,2024-07-18
+357,45,Rashid Al Suwaidi,Male,Python Basics,Debugging,90,Present,2024-07-12
+358,45,Rashid Al Suwaidi,Male,Python Basics,Functions,100,Present,2024-07-05
+359,45,Rashid Al Suwaidi,Male,Python Basics,Data Types,79,Present,2024-07-14
+360,45,Rashid Al Suwaidi,Male,Python Basics,Data Types,70,Absent,2024-09-15
+361,46,Rashid Al Zaabi,Male,Web Development,Forms,62,Present,2024-07-28
+362,46,Rashid Al Zaabi,Male,Web Development,Responsive Design,67,Present,2024-09-05
+363,46,Rashid Al Zaabi,Male,Web Development,Debugging,65,Present,2024-08-28
+364,46,Rashid Al Zaabi,Male,Web Development,Forms,55,Absent,2024-08-31
+365,46,Rashid Al Zaabi,Male,Web Development,JavaScript,77,Absent,2024-07-10
+366,46,Rashid Al Zaabi,Male,Web Development,HTML/CSS,64,Present,2024-08-14
+367,46,Rashid Al Zaabi,Male,Web Development,Forms,70,Present,2024-07-15
+368,46,Rashid Al Zaabi,Male,Web Development,APIs,79,Present,2024-08-21
+369,47,Faisal Al Neyadi,Male,Python Basics,Loops,48,Present,2024-07-22
+370,47,Faisal Al Neyadi,Male,Python Basics,OOP,77,Present,2024-07-16
+371,47,Faisal Al Neyadi,Male,Python Basics,Loops,60,Absent,2024-07-20
+372,47,Faisal Al Neyadi,Male,Python Basics,Data Types,66,Present,2024-09-17
+373,47,Faisal Al Neyadi,Male,Python Basics,OOP,40,Present,2024-08-31
+374,47,Faisal Al Neyadi,Male,Python Basics,Debugging,75,Absent,2024-07-05
+375,47,Faisal Al Neyadi,Male,Python Basics,OOP,56,Present,2024-07-12
+376,47,Faisal Al Neyadi,Male,Python Basics,OOP,75,Absent,2024-09-13
+377,48,Abdullah Al Suwaidi,Male,IT Fundamentals,Networking,72,Present,2024-08-26
+378,48,Abdullah Al Suwaidi,Male,IT Fundamentals,Networking,97,Present,2024-08-03
+379,48,Abdullah Al Suwaidi,Male,IT Fundamentals,IT Support,86,Present,2024-07-22
+380,48,Abdullah Al Suwaidi,Male,IT Fundamentals,Security Basics,89,Present,2024-07-05
+381,48,Abdullah Al Suwaidi,Male,IT Fundamentals,Troubleshooting,100,Present,2024-09-12
+382,48,Abdullah Al Suwaidi,Male,IT Fundamentals,Security Basics,95,Present,2024-08-15
+383,48,Abdullah Al Suwaidi,Male,IT Fundamentals,Networking,95,Present,2024-09-04
+384,48,Abdullah Al Suwaidi,Male,IT Fundamentals,Operating Systems,82,Present,2024-08-06
+385,49,Ali Al Shamsi,Male,Web Development,Debugging,69,Present,2024-08-03
+386,49,Ali Al Shamsi,Male,Web Development,HTML/CSS,98,Present,2024-08-13
+387,49,Ali Al Shamsi,Male,Web Development,Responsive Design,99,Present,2024-08-10
+388,49,Ali Al Shamsi,Male,Web Development,Forms,95,Present,2024-07-12
+389,49,Ali Al Shamsi,Male,Web Development,APIs,96,Present,2024-08-04
+390,49,Ali Al Shamsi,Male,Web Development,HTML/CSS,90,Present,2024-09-29
+391,49,Ali Al Shamsi,Male,Web Development,Debugging,94,Absent,2024-08-08
+392,49,Ali Al Shamsi,Male,Web Development,Responsive Design,90,Present,2024-07-09
+393,50,Ali Al Mansoori,Male,Web Development,APIs,80,Present,2024-07-19
+394,50,Ali Al Mansoori,Male,Web Development,Forms,67,Present,2024-09-18
+395,50,Ali Al Mansoori,Male,Web Development,APIs,71,Present,2024-09-16
+396,50,Ali Al Mansoori,Male,Web Development,Responsive Design,62,Present,2024-08-04
+397,50,Ali Al Mansoori,Male,Web Development,APIs,87,Present,2024-08-09
+398,50,Ali Al Mansoori,Male,Web Development,Debugging,85,Present,2024-09-29
+399,50,Ali Al Mansoori,Male,Web Development,Forms,84,Present,2024-08-05
+400,50,Ali Al Mansoori,Male,Web Development,Responsive Design,80,Present,2024-08-10
+401,51,Faisal Al Qasimi,Male,Web Development,Forms,67,Present,2024-08-26
+402,51,Faisal Al Qasimi,Male,Web Development,APIs,76,Present,2024-09-15
+403,51,Faisal Al Qasimi,Male,Web Development,Responsive Design,79,Present,2024-07-07
+404,51,Faisal Al Qasimi,Male,Web Development,JavaScript,70,Present,2024-09-25
+405,51,Faisal Al Qasimi,Male,Web Development,Debugging,64,Present,2024-08-15
+406,51,Faisal Al Qasimi,Male,Web Development,Forms,72,Present,2024-08-27
+407,51,Faisal Al Qasimi,Male,Web Development,HTML/CSS,68,Present,2024-08-20
+408,51,Faisal Al Qasimi,Male,Web Development,JavaScript,78,Present,2024-09-03
+409,52,Rashid Al Zaabi,Male,Web Development,Responsive Design,83,Present,2024-08-30
+410,52,Rashid Al Zaabi,Male,Web Development,JavaScript,80,Present,2024-07-12
+411,52,Rashid Al Zaabi,Male,Web Development,APIs,67,Present,2024-08-20
+412,52,Rashid Al Zaabi,Male,Web Development,Debugging,68,Present,2024-08-25
+413,52,Rashid Al Zaabi,Male,Web Development,Forms,59,Absent,2024-08-28
+414,52,Rashid Al Zaabi,Male,Web Development,APIs,68,Present,2024-08-25
+415,52,Rashid Al Zaabi,Male,Web Development,Forms,78,Present,2024-08-09
+416,52,Rashid Al Zaabi,Male,Web Development,HTML/CSS,78,Present,2024-09-29
+417,53,Ali Al Nahyan,Male,Web Development,APIs,69,Present,2024-08-13
+418,53,Ali Al Nahyan,Male,Web Development,Forms,74,Present,2024-08-28
+419,53,Ali Al Nahyan,Male,Web Development,Debugging,81,Absent,2024-09-23
+420,53,Ali Al Nahyan,Male,Web Development,APIs,84,Present,2024-09-07
+421,53,Ali Al Nahyan,Male,Web Development,Debugging,92,Present,2024-07-21
+422,53,Ali Al Nahyan,Male,Web Development,APIs,82,Present,2024-08-03
+423,53,Ali Al Nahyan,Male,Web Development,JavaScript,77,Present,2024-09-20
+424,53,Ali Al Nahyan,Male,Web Development,HTML/CSS,64,Absent,2024-08-09
+425,54,Saeed Al Hammadi,Male,Data Analysis,Power BI,62,Present,2024-09-24
+426,54,Saeed Al Hammadi,Male,Data Analysis,SQL Basics,73,Absent,2024-08-31
+427,54,Saeed Al Hammadi,Male,Data Analysis,Excel,72,Present,2024-07-16
+428,54,Saeed Al Hammadi,Male,Data Analysis,Visualization,60,Present,2024-07-03
+429,54,Saeed Al Hammadi,Male,Data Analysis,Statistics,63,Present,2024-08-25
+430,54,Saeed Al Hammadi,Male,Data Analysis,Visualization,71,Present,2024-08-26
+431,54,Saeed Al Hammadi,Male,Data Analysis,Statistics,51,Present,2024-09-02
+432,54,Saeed Al Hammadi,Male,Data Analysis,Excel,76,Present,2024-07-12
+433,55,Khalid Al Hammadi,Male,IT Fundamentals,Troubleshooting,76,Present,2024-08-05
+434,55,Khalid Al Hammadi,Male,IT Fundamentals,Hardware,93,Absent,2024-09-19
+435,55,Khalid Al Hammadi,Male,IT Fundamentals,IT Support,77,Present,2024-07-02
+436,55,Khalid Al Hammadi,Male,IT Fundamentals,IT Support,79,Present,2024-07-14
+437,55,Khalid Al Hammadi,Male,IT Fundamentals,Hardware,91,Present,2024-09-15
+438,55,Khalid Al Hammadi,Male,IT Fundamentals,Security Basics,82,Present,2024-07-22
+439,55,Khalid Al Hammadi,Male,IT Fundamentals,Operating Systems,78,Present,2024-09-14
+440,55,Khalid Al Hammadi,Male,IT Fundamentals,Operating Systems,89,Present,2024-08-10
+441,56,Rashid Al Awadhi,Male,Web Development,Responsive Design,86,Present,2024-09-14
+442,56,Rashid Al Awadhi,Male,Web Development,HTML/CSS,81,Present,2024-09-02
+443,56,Rashid Al Awadhi,Male,Web Development,JavaScript,90,Present,2024-07-17
+444,56,Rashid Al Awadhi,Male,Web Development,Debugging,97,Present,2024-07-02
+445,56,Rashid Al Awadhi,Male,Web Development,Debugging,83,Present,2024-09-26
+446,56,Rashid Al Awadhi,Male,Web Development,Forms,75,Present,2024-08-10
+447,56,Rashid Al Awadhi,Male,Web Development,JavaScript,79,Present,2024-08-11
+448,56,Rashid Al Awadhi,Male,Web Development,Responsive Design,94,Present,2024-07-01
+449,57,Abdullah Al Marri,Male,Data Analysis,Visualization,70,Present,2024-08-12
+450,57,Abdullah Al Marri,Male,Data Analysis,Visualization,76,Present,2024-07-24
+451,57,Abdullah Al Marri,Male,Data Analysis,Data Cleaning,60,Present,2024-07-22
+452,57,Abdullah Al Marri,Male,Data Analysis,Visualization,73,Present,2024-09-06
+453,57,Abdullah Al Marri,Male,Data Analysis,SQL Basics,72,Present,2024-07-13
+454,57,Abdullah Al Marri,Male,Data Analysis,Power BI,71,Present,2024-08-22
+455,57,Abdullah Al Marri,Male,Data Analysis,Statistics,64,Present,2024-07-23
+456,57,Abdullah Al Marri,Male,Data Analysis,Statistics,74,Present,2024-07-01
+457,58,Ahmed Al Ketbi,Male,Web Development,APIs,74,Present,2024-07-13
+458,58,Ahmed Al Ketbi,Male,Web Development,APIs,66,Present,2024-08-13
+459,58,Ahmed Al Ketbi,Male,Web Development,HTML/CSS,78,Present,2024-07-24
+460,58,Ahmed Al Ketbi,Male,Web Development,JavaScript,100,Present,2024-08-27
+461,58,Ahmed Al Ketbi,Male,Web Development,Responsive Design,76,Present,2024-09-21
+462,58,Ahmed Al Ketbi,Male,Web Development,APIs,83,Present,2024-08-20
+463,58,Ahmed Al Ketbi,Male,Web Development,Forms,81,Present,2024-08-13
+464,58,Ahmed Al Ketbi,Male,Web Development,Debugging,87,Present,2024-08-31
+465,59,Hamdan Al Zaabi,Male,Python Basics,Loops,60,Present,2024-07-08
+466,59,Hamdan Al Zaabi,Male,Python Basics,Loops,61,Present,2024-09-03
+467,59,Hamdan Al Zaabi,Male,Python Basics,Debugging,75,Present,2024-07-25
+468,59,Hamdan Al Zaabi,Male,Python Basics,Files,81,Present,2024-08-29
+469,59,Hamdan Al Zaabi,Male,Python Basics,Functions,71,Present,2024-08-30
+470,59,Hamdan Al Zaabi,Male,Python Basics,OOP,68,Present,2024-09-02
+471,59,Hamdan Al Zaabi,Male,Python Basics,OOP,77,Present,2024-07-29
+472,59,Hamdan Al Zaabi,Male,Python Basics,OOP,79,Present,2024-09-09
+473,60,Saeed Al Zaabi,Male,Data Analysis,SQL Basics,67,Present,2024-07-18
+474,60,Saeed Al Zaabi,Male,Data Analysis,SQL Basics,67,Absent,2024-07-07
+475,60,Saeed Al Zaabi,Male,Data Analysis,Statistics,46,Present,2024-07-01
+476,60,Saeed Al Zaabi,Male,Data Analysis,Data Cleaning,54,Present,2024-07-27
+477,60,Saeed Al Zaabi,Male,Data Analysis,Excel,42,Present,2024-07-20
+478,60,Saeed Al Zaabi,Male,Data Analysis,SQL Basics,57,Present,2024-07-18
+479,60,Saeed Al Zaabi,Male,Data Analysis,Data Cleaning,62,Present,2024-09-22
+480,60,Saeed Al Zaabi,Male,Data Analysis,Statistics,59,Present,2024-08-12
+481,61,Mohammed Al Ameri,Male,Python Basics,Data Types,85,Present,2024-07-24
+482,61,Mohammed Al Ameri,Male,Python Basics,OOP,83,Present,2024-08-15
+483,61,Mohammed Al Ameri,Male,Python Basics,Loops,80,Present,2024-07-12
+484,61,Mohammed Al Ameri,Male,Python Basics,Functions,66,Present,2024-09-27
+485,61,Mohammed Al Ameri,Male,Python Basics,Files,77,Present,2024-07-04
+486,61,Mohammed Al Ameri,Male,Python Basics,OOP,80,Present,2024-09-10
+487,61,Mohammed Al Ameri,Male,Python Basics,Files,86,Present,2024-07-03
+488,61,Mohammed Al Ameri,Male,Python Basics,OOP,77,Present,2024-08-27
+489,62,Khalid Al Falasi,Male,Data Analysis,Excel,49,Present,2024-07-12
+490,62,Khalid Al Falasi,Male,Data Analysis,Excel,52,Present,2024-08-29
+491,62,Khalid Al Falasi,Male,Data Analysis,Power BI,54,Present,2024-09-17
+492,62,Khalid Al Falasi,Male,Data Analysis,Data Cleaning,77,Present,2024-09-22
+493,62,Khalid Al Falasi,Male,Data Analysis,Power BI,63,Present,2024-07-03
+494,62,Khalid Al Falasi,Male,Data Analysis,Visualization,66,Present,2024-08-19
+495,62,Khalid Al Falasi,Male,Data Analysis,Data Cleaning,55,Present,2024-09-28
+496,62,Khalid Al Falasi,Male,Data Analysis,Statistics,44,Present,2024-09-01
+497,63,Faisal Al Kaabi,Male,IT Fundamentals,Networking,40,Present,2024-08-23
+498,63,Faisal Al Kaabi,Male,IT Fundamentals,Operating Systems,58,Absent,2024-08-19
+499,63,Faisal Al Kaabi,Male,IT Fundamentals,Operating Systems,66,Present,2024-09-17
+500,63,Faisal Al Kaabi,Male,IT Fundamentals,Networking,59,Absent,2024-07-24
+501,63,Faisal Al Kaabi,Male,IT Fundamentals,Hardware,60,Present,2024-08-08
+502,63,Faisal Al Kaabi,Male,IT Fundamentals,Operating Systems,63,Present,2024-08-23
+503,63,Faisal Al Kaabi,Male,IT Fundamentals,Networking,60,Absent,2024-09-24
+504,63,Faisal Al Kaabi,Male,IT Fundamentals,Networking,47,Present,2024-09-17
+505,64,Abdullah Al Hammadi,Male,Web Development,Responsive Design,64,Present,2024-09-09
+506,64,Abdullah Al Hammadi,Male,Web Development,HTML/CSS,65,Present,2024-07-20
+507,64,Abdullah Al Hammadi,Male,Web Development,JavaScript,95,Present,2024-09-23
+508,64,Abdullah Al Hammadi,Male,Web Development,Responsive Design,78,Present,2024-09-29
+509,64,Abdullah Al Hammadi,Male,Web Development,Debugging,75,Present,2024-09-23
+510,64,Abdullah Al Hammadi,Male,Web Development,Responsive Design,91,Present,2024-09-28
+511,64,Abdullah Al Hammadi,Male,Web Development,JavaScript,67,Absent,2024-08-10
+512,64,Abdullah Al Hammadi,Male,Web Development,Responsive Design,84,Present,2024-09-04
+513,65,Ahmed Al Qasimi,Male,IT Fundamentals,Operating Systems,50,Present,2024-09-17
+514,65,Ahmed Al Qasimi,Male,IT Fundamentals,Hardware,40,Present,2024-09-26
+515,65,Ahmed Al Qasimi,Male,IT Fundamentals,Networking,51,Present,2024-09-26
+516,65,Ahmed Al Qasimi,Male,IT Fundamentals,IT Support,57,Present,2024-08-14
+517,65,Ahmed Al Qasimi,Male,IT Fundamentals,Security Basics,67,Present,2024-08-28
+518,65,Ahmed Al Qasimi,Male,IT Fundamentals,Troubleshooting,55,Absent,2024-08-12
+519,65,Ahmed Al Qasimi,Male,IT Fundamentals,Operating Systems,70,Present,2024-09-28
+520,65,Ahmed Al Qasimi,Male,IT Fundamentals,Operating Systems,62,Present,2024-08-19
+521,66,Abdullah Al Hammadi,Male,IT Fundamentals,Networking,68,Absent,2024-09-29
+522,66,Abdullah Al Hammadi,Male,IT Fundamentals,IT Support,89,Absent,2024-08-03
+523,66,Abdullah Al Hammadi,Male,IT Fundamentals,Operating Systems,75,Absent,2024-08-05
+524,66,Abdullah Al Hammadi,Male,IT Fundamentals,Operating Systems,63,Present,2024-08-25
+525,66,Abdullah Al Hammadi,Male,IT Fundamentals,Operating Systems,70,Present,2024-08-16
+526,66,Abdullah Al Hammadi,Male,IT Fundamentals,Hardware,78,Present,2024-08-15
+527,66,Abdullah Al Hammadi,Male,IT Fundamentals,Hardware,73,Present,2024-08-31
+528,66,Abdullah Al Hammadi,Male,IT Fundamentals,Networking,89,Present,2024-08-04
+529,67,Saeed Al Marri,Male,Python Basics,Functions,66,Present,2024-08-28
+530,67,Saeed Al Marri,Male,Python Basics,Functions,68,Present,2024-07-20
+531,67,Saeed Al Marri,Male,Python Basics,OOP,69,Present,2024-07-14
+532,67,Saeed Al Marri,Male,Python Basics,Functions,80,Present,2024-07-11
+533,67,Saeed Al Marri,Male,Python Basics,Data Types,63,Present,2024-07-17
+534,67,Saeed Al Marri,Male,Python Basics,OOP,57,Present,2024-09-26
+535,67,Saeed Al Marri,Male,Python Basics,Debugging,80,Present,2024-07-10
+536,67,Saeed Al Marri,Male,Python Basics,OOP,87,Present,2024-07-07
+537,68,Rashid Al Suwaidi,Male,Web Development,Debugging,40,Present,2024-07-31
+538,68,Rashid Al Suwaidi,Male,Web Development,Debugging,65,Absent,2024-09-27
+539,68,Rashid Al Suwaidi,Male,Web Development,Debugging,41,Present,2024-08-21
+540,68,Rashid Al Suwaidi,Male,Web Development,Forms,44,Present,2024-07-13
+541,68,Rashid Al Suwaidi,Male,Web Development,HTML/CSS,56,Present,2024-07-10
+542,68,Rashid Al Suwaidi,Male,Web Development,Forms,47,Present,2024-09-24
+543,68,Rashid Al Suwaidi,Male,Web Development,Forms,46,Present,2024-08-31
+544,68,Rashid Al Suwaidi,Male,Web Development,Responsive Design,40,Present,2024-07-23
+545,69,Abdullah Al Shehhi,Male,Web Development,Responsive Design,83,Present,2024-07-31
+546,69,Abdullah Al Shehhi,Male,Web Development,Forms,55,Present,2024-09-19
+547,69,Abdullah Al Shehhi,Male,Web Development,APIs,75,Present,2024-09-11
+548,69,Abdullah Al Shehhi,Male,Web Development,Forms,85,Absent,2024-07-30
+549,69,Abdullah Al Shehhi,Male,Web Development,JavaScript,45,Present,2024-07-29
+550,69,Abdullah Al Shehhi,Male,Web Development,Responsive Design,57,Present,2024-07-26
+551,69,Abdullah Al Shehhi,Male,Web Development,Debugging,57,Present,2024-09-18
+552,69,Abdullah Al Shehhi,Male,Web Development,JavaScript,50,Present,2024-08-30
+553,70,Saeed Al Dhaheri,Male,Web Development,Responsive Design,79,Absent,2024-07-03
+554,70,Saeed Al Dhaheri,Male,Web Development,JavaScript,70,Present,2024-09-23
+555,70,Saeed Al Dhaheri,Male,Web Development,APIs,73,Present,2024-07-05
+556,70,Saeed Al Dhaheri,Male,Web Development,Forms,80,Present,2024-08-22
+557,70,Saeed Al Dhaheri,Male,Web Development,Responsive Design,63,Absent,2024-07-07
+558,70,Saeed Al Dhaheri,Male,Web Development,JavaScript,86,Absent,2024-07-16
+559,70,Saeed Al Dhaheri,Male,Web Development,Debugging,71,Present,2024-08-14
+560,70,Saeed Al Dhaheri,Male,Web Development,Responsive Design,69,Present,2024-07-25
+561,71,Saeed Al Hammadi,Male,IT Fundamentals,IT Support,85,Present,2024-09-25
+562,71,Saeed Al Hammadi,Male,IT Fundamentals,Security Basics,73,Present,2024-09-04
+563,71,Saeed Al Hammadi,Male,IT Fundamentals,Operating Systems,86,Present,2024-09-29
+564,71,Saeed Al Hammadi,Male,IT Fundamentals,Networking,81,Present,2024-07-12
+565,71,Saeed Al Hammadi,Male,IT Fundamentals,Troubleshooting,80,Present,2024-08-30
+566,71,Saeed Al Hammadi,Male,IT Fundamentals,Security Basics,98,Present,2024-08-21
+567,71,Saeed Al Hammadi,Male,IT Fundamentals,Troubleshooting,93,Present,2024-07-06
+568,71,Saeed Al Hammadi,Male,IT Fundamentals,Networking,79,Present,2024-09-19
+569,72,Khalid Al Shamsi,Male,IT Fundamentals,Security Basics,72,Present,2024-09-16
+570,72,Khalid Al Shamsi,Male,IT Fundamentals,IT Support,41,Present,2024-07-13
+571,72,Khalid Al Shamsi,Male,IT Fundamentals,IT Support,68,Present,2024-09-03
+572,72,Khalid Al Shamsi,Male,IT Fundamentals,Security Basics,62,Absent,2024-08-12
+573,72,Khalid Al Shamsi,Male,IT Fundamentals,Networking,58,Present,2024-08-15
+574,72,Khalid Al Shamsi,Male,IT Fundamentals,Security Basics,64,Present,2024-07-24
+575,72,Khalid Al Shamsi,Male,IT Fundamentals,IT Support,67,Present,2024-09-07
+576,72,Khalid Al Shamsi,Male,IT Fundamentals,Security Basics,61,Present,2024-09-19
+577,73,Ali Al Shamsi,Male,IT Fundamentals,Security Basics,75,Present,2024-08-22
+578,73,Ali Al Shamsi,Male,IT Fundamentals,Operating Systems,86,Absent,2024-07-12
+579,73,Ali Al Shamsi,Male,IT Fundamentals,Troubleshooting,78,Present,2024-07-12
+580,73,Ali Al Shamsi,Male,IT Fundamentals,Hardware,51,Present,2024-07-18
+581,73,Ali Al Shamsi,Male,IT Fundamentals,IT Support,60,Present,2024-08-01
+582,73,Ali Al Shamsi,Male,IT Fundamentals,Hardware,70,Present,2024-09-02
+583,73,Ali Al Shamsi,Male,IT Fundamentals,Operating Systems,75,Present,2024-08-31
+584,73,Ali Al Shamsi,Male,IT Fundamentals,Networking,51,Present,2024-08-31
+585,74,Nasser Al Neyadi,Male,Web Development,JavaScript,53,Present,2024-08-28
+586,74,Nasser Al Neyadi,Male,Web Development,Forms,61,Absent,2024-07-21
+587,74,Nasser Al Neyadi,Male,Web Development,Responsive Design,70,Absent,2024-09-28
+588,74,Nasser Al Neyadi,Male,Web Development,Responsive Design,55,Present,2024-09-17
+589,74,Nasser Al Neyadi,Male,Web Development,Debugging,73,Present,2024-08-05
+590,74,Nasser Al Neyadi,Male,Web Development,Debugging,86,Present,2024-08-09
+591,74,Nasser Al Neyadi,Male,Web Development,HTML/CSS,66,Absent,2024-09-02
+592,74,Nasser Al Neyadi,Male,Web Development,HTML/CSS,55,Absent,2024-07-18
+593,75,Faisal Al Suwaidi,Male,Python Basics,Debugging,71,Present,2024-09-19
+594,75,Faisal Al Suwaidi,Male,Python Basics,Loops,77,Present,2024-08-17
+595,75,Faisal Al Suwaidi,Male,Python Basics,Files,68,Present,2024-08-27
+596,75,Faisal Al Suwaidi,Male,Python Basics,Loops,67,Present,2024-09-14
+597,75,Faisal Al Suwaidi,Male,Python Basics,Files,74,Present,2024-07-18
+598,75,Faisal Al Suwaidi,Male,Python Basics,OOP,74,Present,2024-08-01
+599,75,Faisal Al Suwaidi,Male,Python Basics,Debugging,83,Present,2024-07-19
+600,75,Faisal Al Suwaidi,Male,Python Basics,Files,60,Present,2024-08-09
+601,76,Abdullah Al Darmaki,Male,Data Analysis,Visualization,76,Present,2024-07-09
+602,76,Abdullah Al Darmaki,Male,Data Analysis,Data Cleaning,81,Present,2024-08-10
+603,76,Abdullah Al Darmaki,Male,Data Analysis,Power BI,68,Present,2024-07-09
+604,76,Abdullah Al Darmaki,Male,Data Analysis,Statistics,96,Present,2024-09-05
+605,76,Abdullah Al Darmaki,Male,Data Analysis,Statistics,92,Present,2024-09-17
+606,76,Abdullah Al Darmaki,Male,Data Analysis,Statistics,100,Present,2024-09-07
+607,76,Abdullah Al Darmaki,Male,Data Analysis,Excel,94,Absent,2024-07-27
+608,76,Abdullah Al Darmaki,Male,Data Analysis,Power BI,76,Absent,2024-08-02
+609,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Operating Systems,72,Present,2024-09-18
+610,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Hardware,56,Present,2024-07-09
+611,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Operating Systems,73,Present,2024-09-10
+612,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Security Basics,56,Present,2024-09-17
+613,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Networking,60,Present,2024-08-22
+614,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Operating Systems,53,Present,2024-08-27
+615,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Hardware,67,Absent,2024-09-01
+616,77,Abdullah Al Qubaisi,Male,IT Fundamentals,Hardware,74,Present,2024-09-05
+617,78,Abdullah Al Zaabi,Male,Python Basics,Loops,55,Absent,2024-08-16
+618,78,Abdullah Al Zaabi,Male,Python Basics,Loops,74,Present,2024-08-14
+619,78,Abdullah Al Zaabi,Male,Python Basics,Functions,83,Present,2024-09-20
+620,78,Abdullah Al Zaabi,Male,Python Basics,Debugging,80,Present,2024-08-08
+621,78,Abdullah Al Zaabi,Male,Python Basics,Loops,72,Present,2024-09-05
+622,78,Abdullah Al Zaabi,Male,Python Basics,Files,79,Present,2024-09-09
+623,78,Abdullah Al Zaabi,Male,Python Basics,Loops,50,Absent,2024-09-04
+624,78,Abdullah Al Zaabi,Male,Python Basics,Functions,65,Present,2024-07-28
+625,79,Khalid Al Suwaidi,Male,IT Fundamentals,Operating Systems,66,Absent,2024-08-22
+626,79,Khalid Al Suwaidi,Male,IT Fundamentals,Security Basics,57,Present,2024-07-05
+627,79,Khalid Al Suwaidi,Male,IT Fundamentals,Security Basics,60,Present,2024-07-13
+628,79,Khalid Al Suwaidi,Male,IT Fundamentals,Troubleshooting,59,Present,2024-07-30
+629,79,Khalid Al Suwaidi,Male,IT Fundamentals,Operating Systems,61,Present,2024-07-20
+630,79,Khalid Al Suwaidi,Male,IT Fundamentals,Operating Systems,59,Absent,2024-07-21
+631,79,Khalid Al Suwaidi,Male,IT Fundamentals,Hardware,49,Present,2024-09-24
+632,79,Khalid Al Suwaidi,Male,IT Fundamentals,Operating Systems,56,Present,2024-07-10
+633,80,Ahmed Al Shehhi,Male,Data Analysis,Visualization,40,Present,2024-07-17
+634,80,Ahmed Al Shehhi,Male,Data Analysis,Visualization,47,Present,2024-08-23
+635,80,Ahmed Al Shehhi,Male,Data Analysis,Excel,40,Present,2024-07-05
+636,80,Ahmed Al Shehhi,Male,Data Analysis,Power BI,51,Absent,2024-09-29
+637,80,Ahmed Al Shehhi,Male,Data Analysis,Visualization,51,Absent,2024-07-25
+638,80,Ahmed Al Shehhi,Male,Data Analysis,Statistics,49,Present,2024-09-16
+639,80,Ahmed Al Shehhi,Male,Data Analysis,Power BI,46,Present,2024-09-21
+640,80,Ahmed Al Shehhi,Male,Data Analysis,Power BI,62,Present,2024-09-25
+641,81,Ali Al Qubaisi,Male,Data Analysis,Visualization,48,Present,2024-08-29
+642,81,Ali Al Qubaisi,Male,Data Analysis,SQL Basics,40,Present,2024-07-04
+643,81,Ali Al Qubaisi,Male,Data Analysis,SQL Basics,74,Present,2024-07-30
+644,81,Ali Al Qubaisi,Male,Data Analysis,Power BI,45,Present,2024-09-09
+645,81,Ali Al Qubaisi,Male,Data Analysis,Excel,60,Present,2024-08-15
+646,81,Ali Al Qubaisi,Male,Data Analysis,Data Cleaning,54,Present,2024-09-11
+647,81,Ali Al Qubaisi,Male,Data Analysis,Statistics,54,Present,2024-09-05
+648,81,Ali Al Qubaisi,Male,Data Analysis,Statistics,57,Present,2024-08-08
+649,82,Nasser Al Suwaidi,Male,Web Development,Responsive Design,96,Present,2024-08-23
+650,82,Nasser Al Suwaidi,Male,Web Development,JavaScript,70,Present,2024-09-18
+651,82,Nasser Al Suwaidi,Male,Web Development,Forms,100,Present,2024-07-02
+652,82,Nasser Al Suwaidi,Male,Web Development,APIs,84,Present,2024-09-10
+653,82,Nasser Al Suwaidi,Male,Web Development,APIs,74,Present,2024-07-18
+654,82,Nasser Al Suwaidi,Male,Web Development,Responsive Design,74,Absent,2024-07-01
+655,82,Nasser Al Suwaidi,Male,Web Development,JavaScript,91,Present,2024-09-27
+656,82,Nasser Al Suwaidi,Male,Web Development,HTML/CSS,87,Present,2024-09-24
+657,83,Khalid Al Neyadi,Male,IT Fundamentals,Operating Systems,76,Present,2024-08-22
+658,83,Khalid Al Neyadi,Male,IT Fundamentals,Hardware,73,Present,2024-09-03
+659,83,Khalid Al Neyadi,Male,IT Fundamentals,Troubleshooting,75,Present,2024-09-10
+660,83,Khalid Al Neyadi,Male,IT Fundamentals,Security Basics,58,Present,2024-07-20
+661,83,Khalid Al Neyadi,Male,IT Fundamentals,Hardware,87,Present,2024-07-25
+662,83,Khalid Al Neyadi,Male,IT Fundamentals,Operating Systems,81,Present,2024-07-14
+663,83,Khalid Al Neyadi,Male,IT Fundamentals,Security Basics,66,Present,2024-08-02
+664,83,Khalid Al Neyadi,Male,IT Fundamentals,IT Support,76,Present,2024-07-03
+665,84,Ali Al Zaabi,Male,Python Basics,OOP,80,Present,2024-08-16
+666,84,Ali Al Zaabi,Male,Python Basics,Debugging,76,Present,2024-09-22
+667,84,Ali Al Zaabi,Male,Python Basics,OOP,69,Present,2024-07-25
+668,84,Ali Al Zaabi,Male,Python Basics,Functions,84,Present,2024-09-28
+669,84,Ali Al Zaabi,Male,Python Basics,Data Types,65,Present,2024-09-02
+670,84,Ali Al Zaabi,Male,Python Basics,OOP,84,Absent,2024-08-22
+671,84,Ali Al Zaabi,Male,Python Basics,Debugging,68,Present,2024-09-21
+672,84,Ali Al Zaabi,Male,Python Basics,OOP,63,Present,2024-08-02
+673,85,Mohammed Al Zaabi,Male,Web Development,Forms,57,Present,2024-07-10
+674,85,Mohammed Al Zaabi,Male,Web Development,APIs,63,Present,2024-08-02
+675,85,Mohammed Al Zaabi,Male,Web Development,HTML/CSS,73,Present,2024-07-02
+676,85,Mohammed Al Zaabi,Male,Web Development,Forms,41,Present,2024-09-13
+677,85,Mohammed Al Zaabi,Male,Web Development,Debugging,67,Absent,2024-07-30
+678,85,Mohammed Al Zaabi,Male,Web Development,Debugging,50,Present,2024-07-01
+679,85,Mohammed Al Zaabi,Male,Web Development,Forms,81,Absent,2024-08-04
+680,85,Mohammed Al Zaabi,Male,Web Development,Forms,62,Present,2024-08-23
+681,86,Mohammed Al Falasi,Male,IT Fundamentals,Operating Systems,58,Present,2024-09-25
+682,86,Mohammed Al Falasi,Male,IT Fundamentals,Operating Systems,74,Absent,2024-08-20
+683,86,Mohammed Al Falasi,Male,IT Fundamentals,Operating Systems,79,Present,2024-09-22
+684,86,Mohammed Al Falasi,Male,IT Fundamentals,Networking,87,Present,2024-09-03
+685,86,Mohammed Al Falasi,Male,IT Fundamentals,Troubleshooting,86,Present,2024-09-22
+686,86,Mohammed Al Falasi,Male,IT Fundamentals,Security Basics,72,Present,2024-08-12
+687,86,Mohammed Al Falasi,Male,IT Fundamentals,IT Support,91,Absent,2024-09-09
+688,86,Mohammed Al Falasi,Male,IT Fundamentals,Troubleshooting,62,Present,2024-08-10
+689,87,Khalid Al Darmaki,Male,Python Basics,OOP,41,Present,2024-07-11
+690,87,Khalid Al Darmaki,Male,Python Basics,Data Types,75,Present,2024-07-16
+691,87,Khalid Al Darmaki,Male,Python Basics,Functions,67,Present,2024-09-03
+692,87,Khalid Al Darmaki,Male,Python Basics,Functions,73,Present,2024-08-21
+693,87,Khalid Al Darmaki,Male,Python Basics,Functions,45,Present,2024-09-09
+694,87,Khalid Al Darmaki,Male,Python Basics,Functions,68,Absent,2024-09-07
+695,87,Khalid Al Darmaki,Male,Python Basics,Loops,72,Present,2024-08-12
+696,87,Khalid Al Darmaki,Male,Python Basics,Data Types,78,Present,2024-08-20
+697,88,Mohammed Al Shamsi,Male,Data Analysis,Statistics,100,Present,2024-08-09
+698,88,Mohammed Al Shamsi,Male,Data Analysis,SQL Basics,94,Present,2024-08-02
+699,88,Mohammed Al Shamsi,Male,Data Analysis,SQL Basics,72,Present,2024-08-20
+700,88,Mohammed Al Shamsi,Male,Data Analysis,Excel,64,Absent,2024-09-09
+701,88,Mohammed Al Shamsi,Male,Data Analysis,Data Cleaning,71,Present,2024-07-26
+702,88,Mohammed Al Shamsi,Male,Data Analysis,Statistics,85,Present,2024-09-29
+703,88,Mohammed Al Shamsi,Male,Data Analysis,Data Cleaning,73,Present,2024-08-03
+704,88,Mohammed Al Shamsi,Male,Data Analysis,Data Cleaning,80,Present,2024-07-02
+705,89,Rashid Al Marri,Male,Web Development,Responsive Design,53,Present,2024-07-02
+706,89,Rashid Al Marri,Male,Web Development,HTML/CSS,67,Present,2024-09-16
+707,89,Rashid Al Marri,Male,Web Development,APIs,50,Present,2024-07-18
+708,89,Rashid Al Marri,Male,Web Development,JavaScript,57,Present,2024-08-05
+709,89,Rashid Al Marri,Male,Web Development,HTML/CSS,76,Present,2024-09-02
+710,89,Rashid Al Marri,Male,Web Development,APIs,43,Absent,2024-07-19
+711,89,Rashid Al Marri,Male,Web Development,JavaScript,59,Present,2024-07-10
+712,89,Rashid Al Marri,Male,Web Development,HTML/CSS,93,Present,2024-07-06
+713,90,Rashid Al Suwaidi,Male,Web Development,APIs,63,Present,2024-07-20
+714,90,Rashid Al Suwaidi,Male,Web Development,Debugging,79,Present,2024-08-06
+715,90,Rashid Al Suwaidi,Male,Web Development,Forms,56,Present,2024-09-11
+716,90,Rashid Al Suwaidi,Male,Web Development,Responsive Design,66,Absent,2024-09-20
+717,90,Rashid Al Suwaidi,Male,Web Development,Forms,69,Present,2024-08-02
+718,90,Rashid Al Suwaidi,Male,Web Development,Responsive Design,49,Present,2024-08-28
+719,90,Rashid Al Suwaidi,Male,Web Development,APIs,45,Absent,2024-09-14
+720,90,Rashid Al Suwaidi,Male,Web Development,Responsive Design,78,Present,2024-07-14
+721,91,Mohammed Al Ameri,Male,Web Development,JavaScript,80,Present,2024-09-08
+722,91,Mohammed Al Ameri,Male,Web Development,Responsive Design,90,Present,2024-09-02
+723,91,Mohammed Al Ameri,Male,Web Development,JavaScript,82,Present,2024-08-03
+724,91,Mohammed Al Ameri,Male,Web Development,Debugging,83,Absent,2024-09-02
+725,91,Mohammed Al Ameri,Male,Web Development,JavaScript,70,Present,2024-07-05
+726,91,Mohammed Al Ameri,Male,Web Development,Debugging,76,Absent,2024-09-19
+727,91,Mohammed Al Ameri,Male,Web Development,Debugging,75,Present,2024-08-23
+728,91,Mohammed Al Ameri,Male,Web Development,JavaScript,95,Present,2024-09-17
+729,92,Rashid Al Kaabi,Male,Python Basics,Functions,90,Present,2024-08-21
+730,92,Rashid Al Kaabi,Male,Python Basics,OOP,82,Present,2024-09-26
+731,92,Rashid Al Kaabi,Male,Python Basics,OOP,92,Present,2024-07-23
+732,92,Rashid Al Kaabi,Male,Python Basics,Files,85,Absent,2024-09-28
+733,92,Rashid Al Kaabi,Male,Python Basics,Files,100,Present,2024-08-04
+734,92,Rashid Al Kaabi,Male,Python Basics,Functions,85,Present,2024-09-15
+735,92,Rashid Al Kaabi,Male,Python Basics,Files,94,Present,2024-07-11
+736,92,Rashid Al Kaabi,Male,Python Basics,Debugging,61,Present,2024-08-20
+737,93,Abdullah Al Qasimi,Male,Web Development,Responsive Design,85,Present,2024-07-18
+738,93,Abdullah Al Qasimi,Male,Web Development,JavaScript,87,Present,2024-08-06
+739,93,Abdullah Al Qasimi,Male,Web Development,Forms,82,Present,2024-07-08
+740,93,Abdullah Al Qasimi,Male,Web Development,JavaScript,81,Present,2024-09-08
+741,93,Abdullah Al Qasimi,Male,Web Development,HTML/CSS,83,Present,2024-09-16
+742,93,Abdullah Al Qasimi,Male,Web Development,Forms,98,Present,2024-09-19
+743,93,Abdullah Al Qasimi,Male,Web Development,HTML/CSS,100,Absent,2024-09-20
+744,93,Abdullah Al Qasimi,Male,Web Development,JavaScript,68,Present,2024-07-16
+745,94,Hamdan Al Neyadi,Male,IT Fundamentals,Security Basics,83,Present,2024-07-06
+746,94,Hamdan Al Neyadi,Male,IT Fundamentals,Troubleshooting,86,Present,2024-09-20
+747,94,Hamdan Al Neyadi,Male,IT Fundamentals,Hardware,94,Present,2024-07-04
+748,94,Hamdan Al Neyadi,Male,IT Fundamentals,Security Basics,85,Present,2024-08-20
+749,94,Hamdan Al Neyadi,Male,IT Fundamentals,IT Support,100,Absent,2024-07-07
+750,94,Hamdan Al Neyadi,Male,IT Fundamentals,Troubleshooting,70,Present,2024-09-05
+751,94,Hamdan Al Neyadi,Male,IT Fundamentals,IT Support,100,Present,2024-08-30
+752,94,Hamdan Al Neyadi,Male,IT Fundamentals,Networking,80,Present,2024-07-08
+753,95,Nasser Al Shamsi,Male,Python Basics,Loops,67,Present,2024-07-30
+754,95,Nasser Al Shamsi,Male,Python Basics,Functions,77,Present,2024-08-13
+755,95,Nasser Al Shamsi,Male,Python Basics,Functions,72,Present,2024-09-29
+756,95,Nasser Al Shamsi,Male,Python Basics,Data Types,66,Present,2024-08-14
+757,95,Nasser Al Shamsi,Male,Python Basics,Data Types,67,Present,2024-07-24
+758,95,Nasser Al Shamsi,Male,Python Basics,Files,59,Absent,2024-07-24
+759,95,Nasser Al Shamsi,Male,Python Basics,Debugging,79,Present,2024-09-20
+760,95,Nasser Al Shamsi,Male,Python Basics,Functions,59,Absent,2024-07-24
+761,96,Saeed Al Balushi,Male,Web Development,HTML/CSS,78,Present,2024-08-06
+762,96,Saeed Al Balushi,Male,Web Development,Debugging,68,Absent,2024-09-09
+763,96,Saeed Al Balushi,Male,Web Development,Debugging,88,Present,2024-07-14
+764,96,Saeed Al Balushi,Male,Web Development,JavaScript,83,Present,2024-08-06
+765,96,Saeed Al Balushi,Male,Web Development,Responsive Design,72,Present,2024-09-23
+766,96,Saeed Al Balushi,Male,Web Development,JavaScript,71,Present,2024-07-01
+767,96,Saeed Al Balushi,Male,Web Development,HTML/CSS,90,Present,2024-07-11
+768,96,Saeed Al Balushi,Male,Web Development,HTML/CSS,68,Present,2024-08-25
+769,97,Khalid Al Marri,Male,Web Development,APIs,95,Present,2024-07-07
+770,97,Khalid Al Marri,Male,Web Development,Responsive Design,91,Present,2024-09-07
+771,97,Khalid Al Marri,Male,Web Development,JavaScript,96,Present,2024-08-06
+772,97,Khalid Al Marri,Male,Web Development,APIs,100,Present,2024-09-12
+773,97,Khalid Al Marri,Male,Web Development,Responsive Design,91,Present,2024-09-19
+774,97,Khalid Al Marri,Male,Web Development,APIs,96,Present,2024-08-04
+775,97,Khalid Al Marri,Male,Web Development,HTML/CSS,88,Present,2024-08-01
+776,97,Khalid Al Marri,Male,Web Development,Debugging,91,Present,2024-07-15
+777,98,Khalid Al Suwaidi,Male,Python Basics,Functions,97,Present,2024-08-10
+778,98,Khalid Al Suwaidi,Male,Python Basics,Debugging,70,Present,2024-07-30
+779,98,Khalid Al Suwaidi,Male,Python Basics,OOP,59,Present,2024-09-05
+780,98,Khalid Al Suwaidi,Male,Python Basics,Loops,93,Present,2024-07-30
+781,98,Khalid Al Suwaidi,Male,Python Basics,Files,74,Absent,2024-07-04
+782,98,Khalid Al Suwaidi,Male,Python Basics,Loops,84,Present,2024-09-10
+783,98,Khalid Al Suwaidi,Male,Python Basics,Functions,94,Absent,2024-08-22
+784,98,Khalid Al Suwaidi,Male,Python Basics,OOP,94,Absent,2024-08-12
+785,99,Khalid Al Shehhi,Male,IT Fundamentals,Hardware,100,Present,2024-08-15
+786,99,Khalid Al Shehhi,Male,IT Fundamentals,Operating Systems,85,Present,2024-08-19
+787,99,Khalid Al Shehhi,Male,IT Fundamentals,Networking,81,Present,2024-09-29
+788,99,Khalid Al Shehhi,Male,IT Fundamentals,Networking,80,Present,2024-07-14
+789,99,Khalid Al Shehhi,Male,IT Fundamentals,IT Support,83,Present,2024-08-10
+790,99,Khalid Al Shehhi,Male,IT Fundamentals,Troubleshooting,89,Present,2024-08-29
+791,99,Khalid Al Shehhi,Male,IT Fundamentals,IT Support,86,Present,2024-07-03
+792,99,Khalid Al Shehhi,Male,IT Fundamentals,Security Basics,72,Present,2024-09-20
+793,100,Ali Al Shamsi,Male,Web Development,APIs,59,Present,2024-09-17
+794,100,Ali Al Shamsi,Male,Web Development,Responsive Design,68,Present,2024-08-07
+795,100,Ali Al Shamsi,Male,Web Development,Debugging,72,Present,2024-07-09
+796,100,Ali Al Shamsi,Male,Web Development,JavaScript,54,Present,2024-09-28
+797,100,Ali Al Shamsi,Male,Web Development,APIs,75,Present,2024-09-24
+798,100,Ali Al Shamsi,Male,Web Development,APIs,87,Present,2024-08-18
+799,100,Ali Al Shamsi,Male,Web Development,Debugging,79,Present,2024-08-10
+800,100,Ali Al Shamsi,Male,Web Development,Forms,63,Present,2024-07-05
+801,101,Hessa Al Hammadi,Female,Python Basics,Data Types,50,Present,2024-07-27
+802,101,Hessa Al Hammadi,Female,Python Basics,Functions,56,Present,2024-09-05
+803,101,Hessa Al Hammadi,Female,Python Basics,Loops,68,Present,2024-07-16
+804,101,Hessa Al Hammadi,Female,Python Basics,Debugging,56,Absent,2024-07-15
+805,101,Hessa Al Hammadi,Female,Python Basics,OOP,57,Present,2024-08-10
+806,101,Hessa Al Hammadi,Female,Python Basics,Loops,69,Present,2024-08-14
+807,101,Hessa Al Hammadi,Female,Python Basics,Functions,61,Present,2024-07-16
+808,101,Hessa Al Hammadi,Female,Python Basics,Data Types,66,Absent,2024-09-24
+809,102,Fatima Al Marri,Female,IT Fundamentals,IT Support,71,Present,2024-08-16
+810,102,Fatima Al Marri,Female,IT Fundamentals,Security Basics,82,Present,2024-09-10
+811,102,Fatima Al Marri,Female,IT Fundamentals,Operating Systems,84,Present,2024-09-20
+812,102,Fatima Al Marri,Female,IT Fundamentals,IT Support,75,Present,2024-08-29
+813,102,Fatima Al Marri,Female,IT Fundamentals,Networking,86,Present,2024-08-02
+814,102,Fatima Al Marri,Female,IT Fundamentals,Troubleshooting,84,Present,2024-09-15
+815,102,Fatima Al Marri,Female,IT Fundamentals,Security Basics,81,Present,2024-09-21
+816,102,Fatima Al Marri,Female,IT Fundamentals,Networking,77,Present,2024-07-04
+817,103,Mariam Al Darmaki,Female,Python Basics,Files,67,Absent,2024-08-17
+818,103,Mariam Al Darmaki,Female,Python Basics,Debugging,63,Present,2024-08-19
+819,103,Mariam Al Darmaki,Female,Python Basics,Loops,57,Present,2024-08-28
+820,103,Mariam Al Darmaki,Female,Python Basics,Debugging,82,Present,2024-09-11
+821,103,Mariam Al Darmaki,Female,Python Basics,OOP,62,Absent,2024-07-01
+822,103,Mariam Al Darmaki,Female,Python Basics,Functions,92,Absent,2024-08-01
+823,103,Mariam Al Darmaki,Female,Python Basics,Functions,65,Present,2024-09-11
+824,103,Mariam Al Darmaki,Female,Python Basics,Data Types,90,Present,2024-08-02
+825,104,Latifa Al Awadhi,Female,Data Analysis,SQL Basics,71,Absent,2024-08-07
+826,104,Latifa Al Awadhi,Female,Data Analysis,Statistics,84,Present,2024-09-22
+827,104,Latifa Al Awadhi,Female,Data Analysis,Statistics,81,Absent,2024-08-09
+828,104,Latifa Al Awadhi,Female,Data Analysis,Power BI,90,Present,2024-07-14
+829,104,Latifa Al Awadhi,Female,Data Analysis,Excel,87,Present,2024-08-15
+830,104,Latifa Al Awadhi,Female,Data Analysis,Visualization,82,Present,2024-09-15
+831,104,Latifa Al Awadhi,Female,Data Analysis,Power BI,76,Absent,2024-09-22
+832,104,Latifa Al Awadhi,Female,Data Analysis,Excel,85,Present,2024-07-15
+833,105,Latifa Al Suwaidi,Female,IT Fundamentals,Hardware,41,Present,2024-08-06
+834,105,Latifa Al Suwaidi,Female,IT Fundamentals,Troubleshooting,62,Absent,2024-07-12
+835,105,Latifa Al Suwaidi,Female,IT Fundamentals,Troubleshooting,44,Present,2024-08-15
+836,105,Latifa Al Suwaidi,Female,IT Fundamentals,Security Basics,67,Absent,2024-07-14
+837,105,Latifa Al Suwaidi,Female,IT Fundamentals,Security Basics,70,Present,2024-09-03
+838,105,Latifa Al Suwaidi,Female,IT Fundamentals,Operating Systems,52,Present,2024-08-18
+839,105,Latifa Al Suwaidi,Female,IT Fundamentals,Hardware,56,Present,2024-07-04
+840,105,Latifa Al Suwaidi,Female,IT Fundamentals,Troubleshooting,53,Present,2024-08-17
+841,106,Aisha Al Hammadi,Female,Python Basics,Debugging,83,Absent,2024-07-05
+842,106,Aisha Al Hammadi,Female,Python Basics,Loops,79,Present,2024-07-26
+843,106,Aisha Al Hammadi,Female,Python Basics,OOP,79,Present,2024-07-25
+844,106,Aisha Al Hammadi,Female,Python Basics,Debugging,77,Present,2024-09-11
+845,106,Aisha Al Hammadi,Female,Python Basics,Functions,79,Present,2024-07-19
+846,106,Aisha Al Hammadi,Female,Python Basics,Debugging,64,Present,2024-07-05
+847,106,Aisha Al Hammadi,Female,Python Basics,Data Types,54,Present,2024-07-12
+848,106,Aisha Al Hammadi,Female,Python Basics,Debugging,75,Present,2024-08-02
+849,107,Mariam Al Qubaisi,Female,Web Development,Responsive Design,75,Present,2024-07-29
+850,107,Mariam Al Qubaisi,Female,Web Development,Debugging,67,Present,2024-09-23
+851,107,Mariam Al Qubaisi,Female,Web Development,HTML/CSS,81,Present,2024-07-11
+852,107,Mariam Al Qubaisi,Female,Web Development,Responsive Design,83,Present,2024-07-18
+853,107,Mariam Al Qubaisi,Female,Web Development,Debugging,71,Present,2024-08-07
+854,107,Mariam Al Qubaisi,Female,Web Development,Debugging,72,Present,2024-08-01
+855,107,Mariam Al Qubaisi,Female,Web Development,JavaScript,58,Present,2024-08-22
+856,107,Mariam Al Qubaisi,Female,Web Development,APIs,64,Absent,2024-09-29
+857,108,Amna Al Suwaidi,Female,Python Basics,Loops,59,Present,2024-09-07
+858,108,Amna Al Suwaidi,Female,Python Basics,Loops,43,Present,2024-08-09
+859,108,Amna Al Suwaidi,Female,Python Basics,Data Types,62,Present,2024-08-03
+860,108,Amna Al Suwaidi,Female,Python Basics,Loops,63,Absent,2024-08-19
+861,108,Amna Al Suwaidi,Female,Python Basics,Loops,58,Present,2024-07-19
+862,108,Amna Al Suwaidi,Female,Python Basics,Data Types,74,Present,2024-08-22
+863,108,Amna Al Suwaidi,Female,Python Basics,Debugging,64,Absent,2024-09-25
+864,108,Amna Al Suwaidi,Female,Python Basics,Data Types,58,Absent,2024-08-15
+865,109,Latifa Al Qasimi,Female,IT Fundamentals,IT Support,79,Present,2024-07-06
+866,109,Latifa Al Qasimi,Female,IT Fundamentals,Security Basics,72,Present,2024-07-19
+867,109,Latifa Al Qasimi,Female,IT Fundamentals,IT Support,89,Absent,2024-08-01
+868,109,Latifa Al Qasimi,Female,IT Fundamentals,Security Basics,67,Present,2024-09-07
+869,109,Latifa Al Qasimi,Female,IT Fundamentals,IT Support,61,Present,2024-09-20
+870,109,Latifa Al Qasimi,Female,IT Fundamentals,Security Basics,74,Present,2024-07-13
+871,109,Latifa Al Qasimi,Female,IT Fundamentals,Hardware,62,Present,2024-09-06
+872,109,Latifa Al Qasimi,Female,IT Fundamentals,IT Support,78,Present,2024-07-28
+873,110,Salama Al Balushi,Female,Python Basics,OOP,86,Present,2024-07-17
+874,110,Salama Al Balushi,Female,Python Basics,Functions,88,Present,2024-09-19
+875,110,Salama Al Balushi,Female,Python Basics,Files,64,Absent,2024-09-06
+876,110,Salama Al Balushi,Female,Python Basics,OOP,77,Present,2024-07-26
+877,110,Salama Al Balushi,Female,Python Basics,Files,75,Present,2024-09-04
+878,110,Salama Al Balushi,Female,Python Basics,Debugging,77,Present,2024-08-16
+879,110,Salama Al Balushi,Female,Python Basics,Files,90,Present,2024-09-22
+880,110,Salama Al Balushi,Female,Python Basics,Functions,86,Present,2024-09-15
+881,111,Shaikha Al Neyadi,Female,IT Fundamentals,IT Support,78,Absent,2024-08-11
+882,111,Shaikha Al Neyadi,Female,IT Fundamentals,Operating Systems,53,Absent,2024-07-03
+883,111,Shaikha Al Neyadi,Female,IT Fundamentals,Troubleshooting,65,Present,2024-07-14
+884,111,Shaikha Al Neyadi,Female,IT Fundamentals,Networking,82,Present,2024-07-15
+885,111,Shaikha Al Neyadi,Female,IT Fundamentals,Operating Systems,65,Absent,2024-09-21
+886,111,Shaikha Al Neyadi,Female,IT Fundamentals,Security Basics,54,Absent,2024-08-16
+887,111,Shaikha Al Neyadi,Female,IT Fundamentals,Networking,75,Present,2024-07-07
+888,111,Shaikha Al Neyadi,Female,IT Fundamentals,Hardware,77,Absent,2024-09-23
+889,112,Salama Al Mansoori,Female,IT Fundamentals,Troubleshooting,59,Absent,2024-07-18
+890,112,Salama Al Mansoori,Female,IT Fundamentals,Networking,72,Present,2024-08-18
+891,112,Salama Al Mansoori,Female,IT Fundamentals,Operating Systems,69,Present,2024-07-27
+892,112,Salama Al Mansoori,Female,IT Fundamentals,Networking,72,Present,2024-07-10
+893,112,Salama Al Mansoori,Female,IT Fundamentals,Hardware,62,Present,2024-09-01
+894,112,Salama Al Mansoori,Female,IT Fundamentals,Operating Systems,70,Present,2024-07-15
+895,112,Salama Al Mansoori,Female,IT Fundamentals,IT Support,50,Present,2024-07-15
+896,112,Salama Al Mansoori,Female,IT Fundamentals,Security Basics,63,Present,2024-08-06
+897,113,Aisha Al Mansoori,Female,Data Analysis,Data Cleaning,69,Absent,2024-08-13
+898,113,Aisha Al Mansoori,Female,Data Analysis,Power BI,94,Present,2024-08-04
+899,113,Aisha Al Mansoori,Female,Data Analysis,Visualization,84,Present,2024-07-02
+900,113,Aisha Al Mansoori,Female,Data Analysis,Visualization,72,Present,2024-08-28
+901,113,Aisha Al Mansoori,Female,Data Analysis,Excel,85,Present,2024-09-24
+902,113,Aisha Al Mansoori,Female,Data Analysis,SQL Basics,86,Present,2024-08-18
+903,113,Aisha Al Mansoori,Female,Data Analysis,Data Cleaning,80,Present,2024-09-09
+904,113,Aisha Al Mansoori,Female,Data Analysis,Excel,84,Present,2024-09-21
+905,114,Salama Al Darmaki,Female,IT Fundamentals,Security Basics,81,Absent,2024-08-21
+906,114,Salama Al Darmaki,Female,IT Fundamentals,IT Support,95,Present,2024-09-17
+907,114,Salama Al Darmaki,Female,IT Fundamentals,Operating Systems,96,Present,2024-09-19
+908,114,Salama Al Darmaki,Female,IT Fundamentals,Security Basics,92,Absent,2024-09-02
+909,114,Salama Al Darmaki,Female,IT Fundamentals,IT Support,86,Present,2024-07-14
+910,114,Salama Al Darmaki,Female,IT Fundamentals,Hardware,84,Present,2024-09-14
+911,114,Salama Al Darmaki,Female,IT Fundamentals,Security Basics,69,Present,2024-07-31
+912,114,Salama Al Darmaki,Female,IT Fundamentals,Networking,78,Present,2024-07-22
+913,115,Mariam Al Mazrouei,Female,Python Basics,Loops,100,Present,2024-09-05
+914,115,Mariam Al Mazrouei,Female,Python Basics,Data Types,80,Present,2024-08-12
+915,115,Mariam Al Mazrouei,Female,Python Basics,Loops,78,Present,2024-09-02
+916,115,Mariam Al Mazrouei,Female,Python Basics,Loops,81,Present,2024-08-01
+917,115,Mariam Al Mazrouei,Female,Python Basics,Functions,87,Present,2024-08-24
+918,115,Mariam Al Mazrouei,Female,Python Basics,Debugging,86,Present,2024-08-28
+919,115,Mariam Al Mazrouei,Female,Python Basics,OOP,89,Present,2024-09-04
+920,115,Mariam Al Mazrouei,Female,Python Basics,Loops,83,Present,2024-09-08
+921,116,Mariam Al Shamsi,Female,Data Analysis,Statistics,57,Present,2024-07-19
+922,116,Mariam Al Shamsi,Female,Data Analysis,Data Cleaning,64,Present,2024-07-23
+923,116,Mariam Al Shamsi,Female,Data Analysis,Power BI,93,Present,2024-07-27
+924,116,Mariam Al Shamsi,Female,Data Analysis,Visualization,82,Present,2024-08-13
+925,116,Mariam Al Shamsi,Female,Data Analysis,Excel,88,Present,2024-08-19
+926,116,Mariam Al Shamsi,Female,Data Analysis,Statistics,78,Present,2024-07-31
+927,116,Mariam Al Shamsi,Female,Data Analysis,SQL Basics,86,Present,2024-07-25
+928,116,Mariam Al Shamsi,Female,Data Analysis,Statistics,71,Present,2024-08-08
+929,117,Hessa Al Qubaisi,Female,Data Analysis,Power BI,63,Present,2024-09-20
+930,117,Hessa Al Qubaisi,Female,Data Analysis,Data Cleaning,64,Absent,2024-09-01
+931,117,Hessa Al Qubaisi,Female,Data Analysis,Statistics,85,Present,2024-08-15
+932,117,Hessa Al Qubaisi,Female,Data Analysis,SQL Basics,57,Present,2024-09-24
+933,117,Hessa Al Qubaisi,Female,Data Analysis,Visualization,72,Present,2024-08-04
+934,117,Hessa Al Qubaisi,Female,Data Analysis,Excel,94,Present,2024-09-11
+935,117,Hessa Al Qubaisi,Female,Data Analysis,Data Cleaning,93,Present,2024-09-03
+936,117,Hessa Al Qubaisi,Female,Data Analysis,Data Cleaning,92,Present,2024-09-20
+937,118,Latifa Al Shamsi,Female,Web Development,HTML/CSS,72,Present,2024-08-25
+938,118,Latifa Al Shamsi,Female,Web Development,APIs,88,Present,2024-07-14
+939,118,Latifa Al Shamsi,Female,Web Development,APIs,63,Present,2024-08-11
+940,118,Latifa Al Shamsi,Female,Web Development,APIs,70,Present,2024-08-19
+941,118,Latifa Al Shamsi,Female,Web Development,Debugging,95,Present,2024-09-18
+942,118,Latifa Al Shamsi,Female,Web Development,Responsive Design,89,Present,2024-07-13
+943,118,Latifa Al Shamsi,Female,Web Development,Forms,79,Present,2024-08-22
+944,118,Latifa Al Shamsi,Female,Web Development,JavaScript,61,Present,2024-07-14
+945,119,Noora Al Marri,Female,Data Analysis,Power BI,74,Present,2024-08-25
+946,119,Noora Al Marri,Female,Data Analysis,SQL Basics,100,Present,2024-09-28
+947,119,Noora Al Marri,Female,Data Analysis,Data Cleaning,100,Present,2024-07-19
+948,119,Noora Al Marri,Female,Data Analysis,Power BI,100,Present,2024-09-25
+949,119,Noora Al Marri,Female,Data Analysis,SQL Basics,75,Present,2024-08-27
+950,119,Noora Al Marri,Female,Data Analysis,Visualization,82,Absent,2024-08-11
+951,119,Noora Al Marri,Female,Data Analysis,Power BI,94,Present,2024-09-04
+952,119,Noora Al Marri,Female,Data Analysis,Visualization,100,Present,2024-07-23
+953,120,Maryam Al Kaabi,Female,Python Basics,Files,65,Present,2024-07-31
+954,120,Maryam Al Kaabi,Female,Python Basics,OOP,60,Absent,2024-08-06
+955,120,Maryam Al Kaabi,Female,Python Basics,Data Types,57,Present,2024-09-05
+956,120,Maryam Al Kaabi,Female,Python Basics,Debugging,75,Absent,2024-08-10
+957,120,Maryam Al Kaabi,Female,Python Basics,Files,73,Present,2024-07-10
+958,120,Maryam Al Kaabi,Female,Python Basics,OOP,71,Present,2024-07-14
+959,120,Maryam Al Kaabi,Female,Python Basics,Loops,65,Present,2024-07-04
+960,120,Maryam Al Kaabi,Female,Python Basics,Functions,42,Present,2024-07-04
+961,121,Salama Al Ketbi,Female,Data Analysis,Power BI,77,Absent,2024-09-27
+962,121,Salama Al Ketbi,Female,Data Analysis,Excel,82,Present,2024-08-11
+963,121,Salama Al Ketbi,Female,Data Analysis,Excel,77,Absent,2024-08-19
+964,121,Salama Al Ketbi,Female,Data Analysis,Excel,81,Present,2024-09-12
+965,121,Salama Al Ketbi,Female,Data Analysis,Visualization,68,Absent,2024-09-12
+966,121,Salama Al Ketbi,Female,Data Analysis,Data Cleaning,86,Present,2024-07-07
+967,121,Salama Al Ketbi,Female,Data Analysis,Power BI,72,Absent,2024-08-03
+968,121,Salama Al Ketbi,Female,Data Analysis,Statistics,70,Present,2024-09-08
+969,122,Aisha Al Qubaisi,Female,Web Development,JavaScript,76,Present,2024-07-08
+970,122,Aisha Al Qubaisi,Female,Web Development,JavaScript,77,Present,2024-09-08
+971,122,Aisha Al Qubaisi,Female,Web Development,Responsive Design,85,Absent,2024-07-14
+972,122,Aisha Al Qubaisi,Female,Web Development,HTML/CSS,80,Present,2024-07-13
+973,122,Aisha Al Qubaisi,Female,Web Development,Debugging,96,Present,2024-07-06
+974,122,Aisha Al Qubaisi,Female,Web Development,APIs,83,Present,2024-09-03
+975,122,Aisha Al Qubaisi,Female,Web Development,APIs,97,Present,2024-09-21
+976,122,Aisha Al Qubaisi,Female,Web Development,JavaScript,100,Present,2024-07-09
+977,123,Fatima Al Mazrouei,Female,IT Fundamentals,Networking,86,Present,2024-08-19
+978,123,Fatima Al Mazrouei,Female,IT Fundamentals,Hardware,60,Present,2024-07-12
+979,123,Fatima Al Mazrouei,Female,IT Fundamentals,Operating Systems,89,Present,2024-07-16
+980,123,Fatima Al Mazrouei,Female,IT Fundamentals,Security Basics,79,Present,2024-09-27
+981,123,Fatima Al Mazrouei,Female,IT Fundamentals,Networking,81,Present,2024-09-17
+982,123,Fatima Al Mazrouei,Female,IT Fundamentals,Networking,88,Present,2024-09-01
+983,123,Fatima Al Mazrouei,Female,IT Fundamentals,Operating Systems,69,Absent,2024-07-12
+984,123,Fatima Al Mazrouei,Female,IT Fundamentals,IT Support,81,Present,2024-09-16
+985,124,Shaikha Al Shamsi,Female,Web Development,Responsive Design,60,Present,2024-08-07
+986,124,Shaikha Al Shamsi,Female,Web Development,Forms,69,Absent,2024-09-04
+987,124,Shaikha Al Shamsi,Female,Web Development,JavaScript,40,Absent,2024-09-19
+988,124,Shaikha Al Shamsi,Female,Web Development,Debugging,49,Present,2024-09-19
+989,124,Shaikha Al Shamsi,Female,Web Development,Debugging,66,Present,2024-08-20
+990,124,Shaikha Al Shamsi,Female,Web Development,Responsive Design,40,Present,2024-09-23
+991,124,Shaikha Al Shamsi,Female,Web Development,APIs,52,Present,2024-07-23
+992,124,Shaikha Al Shamsi,Female,Web Development,Debugging,53,Present,2024-07-21
+993,125,Noora Al Mazrouei,Female,Web Development,APIs,75,Present,2024-09-08
+994,125,Noora Al Mazrouei,Female,Web Development,JavaScript,76,Present,2024-07-23
+995,125,Noora Al Mazrouei,Female,Web Development,JavaScript,67,Absent,2024-07-31
+996,125,Noora Al Mazrouei,Female,Web Development,Debugging,73,Present,2024-08-05
+997,125,Noora Al Mazrouei,Female,Web Development,Responsive Design,87,Present,2024-07-02
+998,125,Noora Al Mazrouei,Female,Web Development,HTML/CSS,77,Present,2024-08-11
+999,125,Noora Al Mazrouei,Female,Web Development,JavaScript,73,Present,2024-09-04
+1000,125,Noora Al Mazrouei,Female,Web Development,Responsive Design,71,Present,2024-07-17
+1001,126,Noora Al Balushi,Female,Web Development,Forms,44,Present,2024-07-26
+1002,126,Noora Al Balushi,Female,Web Development,Responsive Design,78,Present,2024-08-27
+1003,126,Noora Al Balushi,Female,Web Development,Forms,76,Present,2024-09-01
+1004,126,Noora Al Balushi,Female,Web Development,JavaScript,56,Present,2024-08-09
+1005,126,Noora Al Balushi,Female,Web Development,APIs,50,Present,2024-08-05
+1006,126,Noora Al Balushi,Female,Web Development,Responsive Design,52,Absent,2024-07-04
+1007,126,Noora Al Balushi,Female,Web Development,HTML/CSS,63,Present,2024-08-23
+1008,126,Noora Al Balushi,Female,Web Development,APIs,74,Present,2024-09-10
+1009,127,Maryam Al Balushi,Female,IT Fundamentals,Troubleshooting,62,Present,2024-07-11
+1010,127,Maryam Al Balushi,Female,IT Fundamentals,IT Support,82,Present,2024-08-28
+1011,127,Maryam Al Balushi,Female,IT Fundamentals,IT Support,78,Present,2024-09-04
+1012,127,Maryam Al Balushi,Female,IT Fundamentals,Security Basics,61,Present,2024-07-07
+1013,127,Maryam Al Balushi,Female,IT Fundamentals,Operating Systems,51,Present,2024-08-11
+1014,127,Maryam Al Balushi,Female,IT Fundamentals,Security Basics,79,Present,2024-09-22
+1015,127,Maryam Al Balushi,Female,IT Fundamentals,Operating Systems,85,Present,2024-07-08
+1016,127,Maryam Al Balushi,Female,IT Fundamentals,IT Support,73,Present,2024-08-29
+1017,128,Aisha Al Ameri,Female,Web Development,APIs,44,Present,2024-07-17
+1018,128,Aisha Al Ameri,Female,Web Development,JavaScript,41,Present,2024-08-06
+1019,128,Aisha Al Ameri,Female,Web Development,Responsive Design,47,Absent,2024-09-15
+1020,128,Aisha Al Ameri,Female,Web Development,HTML/CSS,44,Present,2024-07-10
+1021,128,Aisha Al Ameri,Female,Web Development,Responsive Design,64,Absent,2024-07-12
+1022,128,Aisha Al Ameri,Female,Web Development,Forms,69,Present,2024-09-07
+1023,128,Aisha Al Ameri,Female,Web Development,Responsive Design,44,Present,2024-09-25
+1024,128,Aisha Al Ameri,Female,Web Development,Responsive Design,55,Present,2024-07-07
+1025,129,Mariam Al Suwaidi,Female,Web Development,Debugging,84,Present,2024-08-12
+1026,129,Mariam Al Suwaidi,Female,Web Development,Responsive Design,68,Present,2024-09-16
+1027,129,Mariam Al Suwaidi,Female,Web Development,Forms,68,Present,2024-07-22
+1028,129,Mariam Al Suwaidi,Female,Web Development,Responsive Design,75,Present,2024-08-25
+1029,129,Mariam Al Suwaidi,Female,Web Development,APIs,82,Present,2024-08-19
+1030,129,Mariam Al Suwaidi,Female,Web Development,JavaScript,73,Present,2024-09-18
+1031,129,Mariam Al Suwaidi,Female,Web Development,HTML/CSS,83,Present,2024-08-24
+1032,129,Mariam Al Suwaidi,Female,Web Development,Responsive Design,71,Present,2024-08-27
+1033,130,Aisha Al Hammadi,Female,Data Analysis,Visualization,61,Present,2024-08-03
+1034,130,Aisha Al Hammadi,Female,Data Analysis,SQL Basics,49,Present,2024-07-16
+1035,130,Aisha Al Hammadi,Female,Data Analysis,SQL Basics,64,Present,2024-09-21
+1036,130,Aisha Al Hammadi,Female,Data Analysis,Power BI,64,Present,2024-07-17
+1037,130,Aisha Al Hammadi,Female,Data Analysis,Power BI,62,Present,2024-07-30
+1038,130,Aisha Al Hammadi,Female,Data Analysis,Power BI,67,Present,2024-07-20
+1039,130,Aisha Al Hammadi,Female,Data Analysis,SQL Basics,46,Absent,2024-08-28
+1040,130,Aisha Al Hammadi,Female,Data Analysis,Excel,78,Present,2024-08-24
+1041,131,Amna Al Nahyan,Female,IT Fundamentals,Security Basics,98,Present,2024-09-10
+1042,131,Amna Al Nahyan,Female,IT Fundamentals,Networking,87,Present,2024-07-08
+1043,131,Amna Al Nahyan,Female,IT Fundamentals,Security Basics,89,Present,2024-08-01
+1044,131,Amna Al Nahyan,Female,IT Fundamentals,Networking,82,Present,2024-08-16
+1045,131,Amna Al Nahyan,Female,IT Fundamentals,Troubleshooting,69,Present,2024-09-12
+1046,131,Amna Al Nahyan,Female,IT Fundamentals,IT Support,71,Present,2024-09-22
+1047,131,Amna Al Nahyan,Female,IT Fundamentals,Security Basics,84,Present,2024-09-29
+1048,131,Amna Al Nahyan,Female,IT Fundamentals,Networking,63,Absent,2024-07-20
+1049,132,Shaikha Al Dhaheri,Female,Python Basics,Functions,83,Present,2024-07-16
+1050,132,Shaikha Al Dhaheri,Female,Python Basics,Files,72,Present,2024-08-24
+1051,132,Shaikha Al Dhaheri,Female,Python Basics,Debugging,68,Present,2024-07-02
+1052,132,Shaikha Al Dhaheri,Female,Python Basics,Debugging,85,Absent,2024-08-21
+1053,132,Shaikha Al Dhaheri,Female,Python Basics,Debugging,63,Present,2024-07-10
+1054,132,Shaikha Al Dhaheri,Female,Python Basics,Functions,100,Present,2024-08-25
+1055,132,Shaikha Al Dhaheri,Female,Python Basics,Debugging,80,Present,2024-08-20
+1056,132,Shaikha Al Dhaheri,Female,Python Basics,Functions,94,Present,2024-07-30
+1057,133,Hessa Al Hammadi,Female,Python Basics,Debugging,76,Present,2024-07-14
+1058,133,Hessa Al Hammadi,Female,Python Basics,OOP,77,Present,2024-07-19
+1059,133,Hessa Al Hammadi,Female,Python Basics,Data Types,74,Present,2024-09-09
+1060,133,Hessa Al Hammadi,Female,Python Basics,Data Types,100,Present,2024-09-24
+1061,133,Hessa Al Hammadi,Female,Python Basics,Data Types,98,Present,2024-07-03
+1062,133,Hessa Al Hammadi,Female,Python Basics,Files,91,Absent,2024-08-01
+1063,133,Hessa Al Hammadi,Female,Python Basics,Files,90,Present,2024-09-14
+1064,133,Hessa Al Hammadi,Female,Python Basics,OOP,87,Present,2024-09-08
+1065,134,Maryam Al Suwaidi,Female,Data Analysis,Visualization,73,Present,2024-08-04
+1066,134,Maryam Al Suwaidi,Female,Data Analysis,Power BI,73,Present,2024-07-17
+1067,134,Maryam Al Suwaidi,Female,Data Analysis,Visualization,60,Absent,2024-07-21
+1068,134,Maryam Al Suwaidi,Female,Data Analysis,Excel,60,Present,2024-09-17
+1069,134,Maryam Al Suwaidi,Female,Data Analysis,Statistics,71,Present,2024-08-04
+1070,134,Maryam Al Suwaidi,Female,Data Analysis,Power BI,86,Present,2024-07-03
+1071,134,Maryam Al Suwaidi,Female,Data Analysis,SQL Basics,52,Present,2024-07-07
+1072,134,Maryam Al Suwaidi,Female,Data Analysis,Power BI,63,Present,2024-08-26
+1073,135,Hessa Al Mazrouei,Female,Python Basics,Files,58,Present,2024-09-01
+1074,135,Hessa Al Mazrouei,Female,Python Basics,Loops,82,Present,2024-07-31
+1075,135,Hessa Al Mazrouei,Female,Python Basics,Data Types,68,Present,2024-08-16
+1076,135,Hessa Al Mazrouei,Female,Python Basics,Functions,63,Present,2024-09-19
+1077,135,Hessa Al Mazrouei,Female,Python Basics,Files,73,Present,2024-09-21
+1078,135,Hessa Al Mazrouei,Female,Python Basics,Debugging,44,Present,2024-09-23
+1079,135,Hessa Al Mazrouei,Female,Python Basics,Debugging,73,Absent,2024-09-19
+1080,135,Hessa Al Mazrouei,Female,Python Basics,Loops,75,Present,2024-08-31
+1081,136,Latifa Al Neyadi,Female,Data Analysis,Power BI,71,Present,2024-08-04
+1082,136,Latifa Al Neyadi,Female,Data Analysis,Data Cleaning,77,Present,2024-08-31
+1083,136,Latifa Al Neyadi,Female,Data Analysis,Visualization,53,Present,2024-08-17
+1084,136,Latifa Al Neyadi,Female,Data Analysis,Data Cleaning,68,Present,2024-08-25
+1085,136,Latifa Al Neyadi,Female,Data Analysis,Visualization,58,Present,2024-09-04
+1086,136,Latifa Al Neyadi,Female,Data Analysis,Statistics,90,Present,2024-07-12
+1087,136,Latifa Al Neyadi,Female,Data Analysis,Data Cleaning,55,Absent,2024-07-03
+1088,136,Latifa Al Neyadi,Female,Data Analysis,Statistics,66,Present,2024-07-13
+1089,137,Hessa Al Mansoori,Female,Web Development,Responsive Design,60,Present,2024-09-29
+1090,137,Hessa Al Mansoori,Female,Web Development,HTML/CSS,42,Present,2024-08-04
+1091,137,Hessa Al Mansoori,Female,Web Development,APIs,48,Absent,2024-07-07
+1092,137,Hessa Al Mansoori,Female,Web Development,APIs,44,Present,2024-07-27
+1093,137,Hessa Al Mansoori,Female,Web Development,Forms,60,Present,2024-08-23
+1094,137,Hessa Al Mansoori,Female,Web Development,Debugging,51,Absent,2024-07-22
+1095,137,Hessa Al Mansoori,Female,Web Development,Responsive Design,44,Present,2024-07-07
+1096,137,Hessa Al Mansoori,Female,Web Development,Debugging,41,Present,2024-08-16
+1097,138,Fatima Al Neyadi,Female,Data Analysis,SQL Basics,95,Present,2024-08-29
+1098,138,Fatima Al Neyadi,Female,Data Analysis,Power BI,79,Present,2024-09-27
+1099,138,Fatima Al Neyadi,Female,Data Analysis,SQL Basics,73,Present,2024-07-24
+1100,138,Fatima Al Neyadi,Female,Data Analysis,Power BI,85,Present,2024-09-07
+1101,138,Fatima Al Neyadi,Female,Data Analysis,Power BI,70,Present,2024-08-06
+1102,138,Fatima Al Neyadi,Female,Data Analysis,Statistics,82,Absent,2024-07-18
+1103,138,Fatima Al Neyadi,Female,Data Analysis,Data Cleaning,77,Present,2024-07-20
+1104,138,Fatima Al Neyadi,Female,Data Analysis,Power BI,68,Present,2024-08-03
+1105,139,Amna Al Mazrouei,Female,IT Fundamentals,IT Support,70,Present,2024-07-12
+1106,139,Amna Al Mazrouei,Female,IT Fundamentals,Troubleshooting,55,Absent,2024-07-23
+1107,139,Amna Al Mazrouei,Female,IT Fundamentals,Hardware,71,Present,2024-07-02
+1108,139,Amna Al Mazrouei,Female,IT Fundamentals,Operating Systems,57,Absent,2024-09-29
+1109,139,Amna Al Mazrouei,Female,IT Fundamentals,Hardware,58,Present,2024-07-07
+1110,139,Amna Al Mazrouei,Female,IT Fundamentals,Troubleshooting,51,Present,2024-07-24
+1111,139,Amna Al Mazrouei,Female,IT Fundamentals,Networking,59,Present,2024-09-23
+1112,139,Amna Al Mazrouei,Female,IT Fundamentals,Troubleshooting,46,Present,2024-09-04
+1113,140,Maryam Al Dhaheri,Female,Data Analysis,Statistics,57,Present,2024-07-14
+1114,140,Maryam Al Dhaheri,Female,Data Analysis,SQL Basics,79,Present,2024-07-03
+1115,140,Maryam Al Dhaheri,Female,Data Analysis,Power BI,67,Present,2024-08-02
+1116,140,Maryam Al Dhaheri,Female,Data Analysis,Power BI,76,Absent,2024-08-11
+1117,140,Maryam Al Dhaheri,Female,Data Analysis,Power BI,59,Present,2024-07-24
+1118,140,Maryam Al Dhaheri,Female,Data Analysis,Statistics,63,Present,2024-08-11
+1119,140,Maryam Al Dhaheri,Female,Data Analysis,Data Cleaning,54,Present,2024-07-19
+1120,140,Maryam Al Dhaheri,Female,Data Analysis,Visualization,52,Present,2024-07-03
+1121,141,Latifa Al Darmaki,Female,Python Basics,Loops,89,Present,2024-07-14
+1122,141,Latifa Al Darmaki,Female,Python Basics,Data Types,61,Present,2024-08-02
+1123,141,Latifa Al Darmaki,Female,Python Basics,Functions,75,Present,2024-08-02
+1124,141,Latifa Al Darmaki,Female,Python Basics,Loops,88,Present,2024-09-03
+1125,141,Latifa Al Darmaki,Female,Python Basics,Functions,86,Absent,2024-09-19
+1126,141,Latifa Al Darmaki,Female,Python Basics,Loops,59,Present,2024-07-05
+1127,141,Latifa Al Darmaki,Female,Python Basics,Files,71,Absent,2024-08-05
+1128,141,Latifa Al Darmaki,Female,Python Basics,Functions,83,Present,2024-09-17
+1129,142,Fatima Al Hammadi,Female,IT Fundamentals,Security Basics,40,Present,2024-08-21
+1130,142,Fatima Al Hammadi,Female,IT Fundamentals,Networking,56,Present,2024-09-24
+1131,142,Fatima Al Hammadi,Female,IT Fundamentals,Hardware,40,Present,2024-07-14
+1132,142,Fatima Al Hammadi,Female,IT Fundamentals,Networking,58,Present,2024-08-31
+1133,142,Fatima Al Hammadi,Female,IT Fundamentals,Security Basics,59,Present,2024-08-11
+1134,142,Fatima Al Hammadi,Female,IT Fundamentals,Hardware,93,Present,2024-07-28
+1135,142,Fatima Al Hammadi,Female,IT Fundamentals,Hardware,51,Present,2024-09-19
+1136,142,Fatima Al Hammadi,Female,IT Fundamentals,Hardware,61,Present,2024-07-30
+1137,143,Hessa Al Shehhi,Female,Data Analysis,Data Cleaning,65,Absent,2024-07-05
+1138,143,Hessa Al Shehhi,Female,Data Analysis,Visualization,77,Present,2024-09-17
+1139,143,Hessa Al Shehhi,Female,Data Analysis,Statistics,67,Present,2024-09-22
+1140,143,Hessa Al Shehhi,Female,Data Analysis,Visualization,69,Present,2024-08-09
+1141,143,Hessa Al Shehhi,Female,Data Analysis,Data Cleaning,60,Present,2024-07-06
+1142,143,Hessa Al Shehhi,Female,Data Analysis,Power BI,66,Absent,2024-09-07
+1143,143,Hessa Al Shehhi,Female,Data Analysis,Excel,80,Present,2024-08-21
+1144,143,Hessa Al Shehhi,Female,Data Analysis,Data Cleaning,69,Present,2024-09-03
+1145,144,Maryam Al Nahyan,Female,Web Development,HTML/CSS,54,Present,2024-08-06
+1146,144,Maryam Al Nahyan,Female,Web Development,Forms,60,Present,2024-08-21
+1147,144,Maryam Al Nahyan,Female,Web Development,Responsive Design,70,Present,2024-09-25
+1148,144,Maryam Al Nahyan,Female,Web Development,Debugging,70,Present,2024-09-26
+1149,144,Maryam Al Nahyan,Female,Web Development,Debugging,85,Present,2024-09-13
+1150,144,Maryam Al Nahyan,Female,Web Development,Responsive Design,68,Absent,2024-09-12
+1151,144,Maryam Al Nahyan,Female,Web Development,Debugging,56,Present,2024-07-22
+1152,144,Maryam Al Nahyan,Female,Web Development,HTML/CSS,72,Present,2024-07-15
+1153,145,Hessa Al Darmaki,Female,IT Fundamentals,Security Basics,86,Present,2024-08-11
+1154,145,Hessa Al Darmaki,Female,IT Fundamentals,Security Basics,87,Absent,2024-08-10
+1155,145,Hessa Al Darmaki,Female,IT Fundamentals,Operating Systems,73,Present,2024-08-23
+1156,145,Hessa Al Darmaki,Female,IT Fundamentals,Networking,84,Present,2024-07-02
+1157,145,Hessa Al Darmaki,Female,IT Fundamentals,Troubleshooting,84,Present,2024-09-22
+1158,145,Hessa Al Darmaki,Female,IT Fundamentals,IT Support,77,Present,2024-08-04
+1159,145,Hessa Al Darmaki,Female,IT Fundamentals,Operating Systems,87,Present,2024-09-09
+1160,145,Hessa Al Darmaki,Female,IT Fundamentals,IT Support,76,Present,2024-09-21
+1161,146,Aisha Al Ketbi,Female,Data Analysis,Visualization,76,Present,2024-07-16
+1162,146,Aisha Al Ketbi,Female,Data Analysis,Excel,86,Present,2024-08-10
+1163,146,Aisha Al Ketbi,Female,Data Analysis,Excel,66,Present,2024-09-15
+1164,146,Aisha Al Ketbi,Female,Data Analysis,Excel,75,Present,2024-09-08
+1165,146,Aisha Al Ketbi,Female,Data Analysis,Excel,65,Present,2024-08-16
+1166,146,Aisha Al Ketbi,Female,Data Analysis,Statistics,70,Present,2024-07-22
+1167,146,Aisha Al Ketbi,Female,Data Analysis,Data Cleaning,49,Absent,2024-07-16
+1168,146,Aisha Al Ketbi,Female,Data Analysis,Statistics,79,Present,2024-09-04
+1169,147,Hessa Al Nahyan,Female,IT Fundamentals,IT Support,63,Present,2024-08-04
+1170,147,Hessa Al Nahyan,Female,IT Fundamentals,Troubleshooting,81,Present,2024-07-07
+1171,147,Hessa Al Nahyan,Female,IT Fundamentals,Troubleshooting,71,Absent,2024-09-01
+1172,147,Hessa Al Nahyan,Female,IT Fundamentals,Hardware,62,Absent,2024-09-13
+1173,147,Hessa Al Nahyan,Female,IT Fundamentals,IT Support,84,Present,2024-07-15
+1174,147,Hessa Al Nahyan,Female,IT Fundamentals,Hardware,79,Present,2024-07-31
+1175,147,Hessa Al Nahyan,Female,IT Fundamentals,IT Support,74,Present,2024-07-01
+1176,147,Hessa Al Nahyan,Female,IT Fundamentals,Operating Systems,87,Present,2024-08-01
+1177,148,Shaikha Al Darmaki,Female,Python Basics,Functions,78,Present,2024-09-17
+1178,148,Shaikha Al Darmaki,Female,Python Basics,OOP,96,Present,2024-07-12
+1179,148,Shaikha Al Darmaki,Female,Python Basics,Loops,69,Present,2024-07-18
+1180,148,Shaikha Al Darmaki,Female,Python Basics,Data Types,65,Present,2024-09-23
+1181,148,Shaikha Al Darmaki,Female,Python Basics,Data Types,82,Present,2024-09-21
+1182,148,Shaikha Al Darmaki,Female,Python Basics,OOP,89,Present,2024-07-24
+1183,148,Shaikha Al Darmaki,Female,Python Basics,OOP,99,Present,2024-09-05
+1184,148,Shaikha Al Darmaki,Female,Python Basics,OOP,70,Present,2024-07-07
+1185,149,Aisha Al Hammadi,Female,Python Basics,Functions,70,Present,2024-09-25
+1186,149,Aisha Al Hammadi,Female,Python Basics,Files,80,Present,2024-07-30
+1187,149,Aisha Al Hammadi,Female,Python Basics,Debugging,94,Absent,2024-09-01
+1188,149,Aisha Al Hammadi,Female,Python Basics,Data Types,92,Present,2024-08-17
+1189,149,Aisha Al Hammadi,Female,Python Basics,Data Types,82,Present,2024-08-01
+1190,149,Aisha Al Hammadi,Female,Python Basics,Functions,82,Present,2024-09-29
+1191,149,Aisha Al Hammadi,Female,Python Basics,Data Types,80,Present,2024-07-03
+1192,149,Aisha Al Hammadi,Female,Python Basics,Files,88,Absent,2024-09-10
+1193,150,Hessa Al Falasi,Female,Python Basics,Files,79,Present,2024-07-12
+1194,150,Hessa Al Falasi,Female,Python Basics,Functions,70,Present,2024-09-11
+1195,150,Hessa Al Falasi,Female,Python Basics,Debugging,73,Present,2024-07-11
+1196,150,Hessa Al Falasi,Female,Python Basics,Files,90,Present,2024-08-09
+1197,150,Hessa Al Falasi,Female,Python Basics,Data Types,83,Present,2024-08-27
+1198,150,Hessa Al Falasi,Female,Python Basics,Files,68,Absent,2024-08-27
+1199,150,Hessa Al Falasi,Female,Python Basics,Files,75,Present,2024-09-09
+1200,150,Hessa Al Falasi,Female,Python Basics,Data Types,68,Present,2024-09-10
+1201,151,Noora Al Dhaheri,Female,Python Basics,OOP,81,Absent,2024-07-16
+1202,151,Noora Al Dhaheri,Female,Python Basics,Data Types,72,Present,2024-08-10
+1203,151,Noora Al Dhaheri,Female,Python Basics,Files,66,Present,2024-09-22
+1204,151,Noora Al Dhaheri,Female,Python Basics,Data Types,70,Present,2024-09-27
+1205,151,Noora Al Dhaheri,Female,Python Basics,OOP,71,Present,2024-08-15
+1206,151,Noora Al Dhaheri,Female,Python Basics,Debugging,95,Present,2024-08-18
+1207,151,Noora Al Dhaheri,Female,Python Basics,Files,85,Present,2024-08-14
+1208,151,Noora Al Dhaheri,Female,Python Basics,Data Types,90,Absent,2024-07-21
+1209,152,Noora Al Qubaisi,Female,Data Analysis,Data Cleaning,89,Present,2024-07-06
+1210,152,Noora Al Qubaisi,Female,Data Analysis,Statistics,97,Present,2024-09-02
+1211,152,Noora Al Qubaisi,Female,Data Analysis,Visualization,88,Present,2024-08-05
+1212,152,Noora Al Qubaisi,Female,Data Analysis,SQL Basics,86,Present,2024-07-06
+1213,152,Noora Al Qubaisi,Female,Data Analysis,Statistics,87,Present,2024-09-03
+1214,152,Noora Al Qubaisi,Female,Data Analysis,SQL Basics,97,Absent,2024-09-04
+1215,152,Noora Al Qubaisi,Female,Data Analysis,Visualization,78,Present,2024-08-27
+1216,152,Noora Al Qubaisi,Female,Data Analysis,Power BI,88,Present,2024-09-23
+1217,153,Latifa Al Mazrouei,Female,Web Development,HTML/CSS,99,Present,2024-07-27
+1218,153,Latifa Al Mazrouei,Female,Web Development,HTML/CSS,100,Present,2024-08-18
+1219,153,Latifa Al Mazrouei,Female,Web Development,Responsive Design,90,Present,2024-09-14
+1220,153,Latifa Al Mazrouei,Female,Web Development,HTML/CSS,100,Absent,2024-08-02
+1221,153,Latifa Al Mazrouei,Female,Web Development,Responsive Design,92,Present,2024-07-03
+1222,153,Latifa Al Mazrouei,Female,Web Development,Responsive Design,92,Present,2024-08-22
+1223,153,Latifa Al Mazrouei,Female,Web Development,HTML/CSS,92,Present,2024-08-30
+1224,153,Latifa Al Mazrouei,Female,Web Development,Responsive Design,85,Present,2024-09-09
+1225,154,Salama Al Mazrouei,Female,Data Analysis,Excel,86,Present,2024-09-06
+1226,154,Salama Al Mazrouei,Female,Data Analysis,Power BI,92,Present,2024-07-22
+1227,154,Salama Al Mazrouei,Female,Data Analysis,Visualization,82,Present,2024-09-20
+1228,154,Salama Al Mazrouei,Female,Data Analysis,Excel,74,Present,2024-09-19
+1229,154,Salama Al Mazrouei,Female,Data Analysis,Data Cleaning,77,Present,2024-08-03
+1230,154,Salama Al Mazrouei,Female,Data Analysis,Power BI,83,Present,2024-07-11
+1231,154,Salama Al Mazrouei,Female,Data Analysis,Visualization,73,Present,2024-09-17
+1232,154,Salama Al Mazrouei,Female,Data Analysis,Excel,67,Absent,2024-08-02
+1233,155,Shaikha Al Shamsi,Female,Web Development,HTML/CSS,59,Present,2024-08-11
+1234,155,Shaikha Al Shamsi,Female,Web Development,JavaScript,61,Present,2024-09-02
+1235,155,Shaikha Al Shamsi,Female,Web Development,Forms,64,Present,2024-08-11
+1236,155,Shaikha Al Shamsi,Female,Web Development,Debugging,58,Present,2024-08-14
+1237,155,Shaikha Al Shamsi,Female,Web Development,APIs,70,Present,2024-09-02
+1238,155,Shaikha Al Shamsi,Female,Web Development,JavaScript,68,Present,2024-09-03
+1239,155,Shaikha Al Shamsi,Female,Web Development,JavaScript,47,Present,2024-08-11
+1240,155,Shaikha Al Shamsi,Female,Web Development,Forms,49,Present,2024-09-15
+1241,156,Fatima Al Shamsi,Female,Data Analysis,Data Cleaning,82,Present,2024-09-11
+1242,156,Fatima Al Shamsi,Female,Data Analysis,Data Cleaning,100,Present,2024-09-25
+1243,156,Fatima Al Shamsi,Female,Data Analysis,Data Cleaning,77,Present,2024-08-06
+1244,156,Fatima Al Shamsi,Female,Data Analysis,SQL Basics,83,Absent,2024-09-03
+1245,156,Fatima Al Shamsi,Female,Data Analysis,Statistics,73,Present,2024-07-28
+1246,156,Fatima Al Shamsi,Female,Data Analysis,SQL Basics,100,Present,2024-07-02
+1247,156,Fatima Al Shamsi,Female,Data Analysis,Visualization,83,Present,2024-07-23
+1248,156,Fatima Al Shamsi,Female,Data Analysis,SQL Basics,89,Present,2024-09-18
+1249,157,Shaikha Al Darmaki,Female,Python Basics,Loops,58,Absent,2024-07-30
+1250,157,Shaikha Al Darmaki,Female,Python Basics,OOP,83,Present,2024-09-16
+1251,157,Shaikha Al Darmaki,Female,Python Basics,Data Types,70,Present,2024-08-08
+1252,157,Shaikha Al Darmaki,Female,Python Basics,Data Types,51,Present,2024-08-02
+1253,157,Shaikha Al Darmaki,Female,Python Basics,Debugging,66,Present,2024-08-30
+1254,157,Shaikha Al Darmaki,Female,Python Basics,Debugging,56,Present,2024-09-17
+1255,157,Shaikha Al Darmaki,Female,Python Basics,Functions,60,Present,2024-08-18
+1256,157,Shaikha Al Darmaki,Female,Python Basics,Debugging,69,Present,2024-07-12
+1257,158,Noora Al Zaabi,Female,IT Fundamentals,IT Support,74,Present,2024-08-24
+1258,158,Noora Al Zaabi,Female,IT Fundamentals,Operating Systems,66,Present,2024-09-29
+1259,158,Noora Al Zaabi,Female,IT Fundamentals,Security Basics,66,Present,2024-07-30
+1260,158,Noora Al Zaabi,Female,IT Fundamentals,IT Support,65,Present,2024-09-20
+1261,158,Noora Al Zaabi,Female,IT Fundamentals,Operating Systems,61,Present,2024-07-27
+1262,158,Noora Al Zaabi,Female,IT Fundamentals,Networking,83,Present,2024-08-18
+1263,158,Noora Al Zaabi,Female,IT Fundamentals,Troubleshooting,65,Present,2024-09-24
+1264,158,Noora Al Zaabi,Female,IT Fundamentals,Security Basics,54,Present,2024-07-13
+1265,159,Maryam Al Nahyan,Female,Data Analysis,Statistics,64,Present,2024-08-30
+1266,159,Maryam Al Nahyan,Female,Data Analysis,Excel,62,Present,2024-07-17
+1267,159,Maryam Al Nahyan,Female,Data Analysis,Visualization,54,Present,2024-09-19
+1268,159,Maryam Al Nahyan,Female,Data Analysis,Statistics,50,Present,2024-09-20
+1269,159,Maryam Al Nahyan,Female,Data Analysis,SQL Basics,77,Present,2024-07-31
+1270,159,Maryam Al Nahyan,Female,Data Analysis,Data Cleaning,80,Present,2024-09-18
+1271,159,Maryam Al Nahyan,Female,Data Analysis,Visualization,67,Present,2024-09-17
+1272,159,Maryam Al Nahyan,Female,Data Analysis,Visualization,74,Present,2024-08-14
+1273,160,Shaikha Al Qubaisi,Female,Python Basics,Functions,63,Present,2024-08-18
+1274,160,Shaikha Al Qubaisi,Female,Python Basics,Loops,82,Present,2024-07-23
+1275,160,Shaikha Al Qubaisi,Female,Python Basics,Data Types,68,Present,2024-09-27
+1276,160,Shaikha Al Qubaisi,Female,Python Basics,Functions,65,Present,2024-08-23
+1277,160,Shaikha Al Qubaisi,Female,Python Basics,OOP,100,Present,2024-07-14
+1278,160,Shaikha Al Qubaisi,Female,Python Basics,Data Types,76,Present,2024-07-09
+1279,160,Shaikha Al Qubaisi,Female,Python Basics,Files,66,Present,2024-08-25
+1280,160,Shaikha Al Qubaisi,Female,Python Basics,OOP,56,Present,2024-08-02
+1281,161,Salama Al Qasimi,Female,Python Basics,Loops,100,Present,2024-09-01
+1282,161,Salama Al Qasimi,Female,Python Basics,Files,83,Present,2024-08-07
+1283,161,Salama Al Qasimi,Female,Python Basics,Debugging,92,Present,2024-08-14
+1284,161,Salama Al Qasimi,Female,Python Basics,OOP,90,Present,2024-09-27
+1285,161,Salama Al Qasimi,Female,Python Basics,Files,87,Present,2024-08-30
+1286,161,Salama Al Qasimi,Female,Python Basics,Functions,86,Present,2024-07-17
+1287,161,Salama Al Qasimi,Female,Python Basics,Debugging,79,Present,2024-07-07
+1288,161,Salama Al Qasimi,Female,Python Basics,OOP,91,Present,2024-07-15
+1289,162,Noora Al Suwaidi,Female,Data Analysis,Power BI,63,Present,2024-08-18
+1290,162,Noora Al Suwaidi,Female,Data Analysis,Statistics,91,Present,2024-09-02
+1291,162,Noora Al Suwaidi,Female,Data Analysis,Data Cleaning,53,Present,2024-08-27
+1292,162,Noora Al Suwaidi,Female,Data Analysis,Visualization,83,Present,2024-07-06
+1293,162,Noora Al Suwaidi,Female,Data Analysis,Statistics,94,Absent,2024-08-18
+1294,162,Noora Al Suwaidi,Female,Data Analysis,Excel,81,Present,2024-08-27
+1295,162,Noora Al Suwaidi,Female,Data Analysis,SQL Basics,72,Present,2024-09-06
+1296,162,Noora Al Suwaidi,Female,Data Analysis,Visualization,99,Present,2024-07-09
+1297,163,Mariam Al Dhaheri,Female,Data Analysis,Excel,93,Absent,2024-08-23
+1298,163,Mariam Al Dhaheri,Female,Data Analysis,SQL Basics,91,Present,2024-08-05
+1299,163,Mariam Al Dhaheri,Female,Data Analysis,Power BI,87,Present,2024-09-01
+1300,163,Mariam Al Dhaheri,Female,Data Analysis,Data Cleaning,82,Present,2024-08-12
+1301,163,Mariam Al Dhaheri,Female,Data Analysis,Statistics,88,Present,2024-07-04
+1302,163,Mariam Al Dhaheri,Female,Data Analysis,Data Cleaning,93,Absent,2024-09-20
+1303,163,Mariam Al Dhaheri,Female,Data Analysis,Power BI,100,Present,2024-08-17
+1304,163,Mariam Al Dhaheri,Female,Data Analysis,Excel,82,Present,2024-08-07
+1305,164,Mariam Al Suwaidi,Female,Data Analysis,Data Cleaning,71,Absent,2024-09-25
+1306,164,Mariam Al Suwaidi,Female,Data Analysis,Power BI,69,Present,2024-07-27
+1307,164,Mariam Al Suwaidi,Female,Data Analysis,Power BI,76,Present,2024-07-26
+1308,164,Mariam Al Suwaidi,Female,Data Analysis,Visualization,76,Present,2024-08-07
+1309,164,Mariam Al Suwaidi,Female,Data Analysis,Statistics,72,Present,2024-07-23
+1310,164,Mariam Al Suwaidi,Female,Data Analysis,Visualization,91,Absent,2024-08-13
+1311,164,Mariam Al Suwaidi,Female,Data Analysis,Excel,78,Present,2024-08-16
+1312,164,Mariam Al Suwaidi,Female,Data Analysis,SQL Basics,58,Present,2024-09-16
+1313,165,Maryam Al Balushi,Female,Data Analysis,Excel,62,Present,2024-09-29
+1314,165,Maryam Al Balushi,Female,Data Analysis,SQL Basics,67,Present,2024-07-05
+1315,165,Maryam Al Balushi,Female,Data Analysis,Excel,48,Present,2024-09-24
+1316,165,Maryam Al Balushi,Female,Data Analysis,SQL Basics,69,Present,2024-07-06
+1317,165,Maryam Al Balushi,Female,Data Analysis,Data Cleaning,62,Present,2024-08-01
+1318,165,Maryam Al Balushi,Female,Data Analysis,Visualization,73,Present,2024-08-24
+1319,165,Maryam Al Balushi,Female,Data Analysis,Power BI,66,Present,2024-09-11
+1320,165,Maryam Al Balushi,Female,Data Analysis,Data Cleaning,70,Present,2024-08-01
+1321,166,Mariam Al Mazrouei,Female,IT Fundamentals,Networking,96,Present,2024-08-05
+1322,166,Mariam Al Mazrouei,Female,IT Fundamentals,Hardware,86,Present,2024-09-29
+1323,166,Mariam Al Mazrouei,Female,IT Fundamentals,Networking,96,Present,2024-09-26
+1324,166,Mariam Al Mazrouei,Female,IT Fundamentals,Hardware,93,Absent,2024-08-19
+1325,166,Mariam Al Mazrouei,Female,IT Fundamentals,Operating Systems,88,Present,2024-09-03
+1326,166,Mariam Al Mazrouei,Female,IT Fundamentals,Troubleshooting,84,Present,2024-09-25
+1327,166,Mariam Al Mazrouei,Female,IT Fundamentals,Security Basics,89,Present,2024-08-01
+1328,166,Mariam Al Mazrouei,Female,IT Fundamentals,Networking,81,Present,2024-08-28
+1329,167,Mariam Al Suwaidi,Female,Data Analysis,SQL Basics,59,Present,2024-07-08
+1330,167,Mariam Al Suwaidi,Female,Data Analysis,SQL Basics,62,Absent,2024-09-24
+1331,167,Mariam Al Suwaidi,Female,Data Analysis,Statistics,46,Absent,2024-09-17
+1332,167,Mariam Al Suwaidi,Female,Data Analysis,Data Cleaning,55,Absent,2024-08-03
+1333,167,Mariam Al Suwaidi,Female,Data Analysis,Statistics,62,Present,2024-07-25
+1334,167,Mariam Al Suwaidi,Female,Data Analysis,Power BI,78,Present,2024-07-19
+1335,167,Mariam Al Suwaidi,Female,Data Analysis,Visualization,78,Present,2024-09-15
+1336,167,Mariam Al Suwaidi,Female,Data Analysis,Visualization,61,Present,2024-09-25
+1337,168,Amna Al Darmaki,Female,Data Analysis,Visualization,57,Present,2024-08-21
+1338,168,Amna Al Darmaki,Female,Data Analysis,Excel,61,Present,2024-08-21
+1339,168,Amna Al Darmaki,Female,Data Analysis,Power BI,64,Present,2024-07-26
+1340,168,Amna Al Darmaki,Female,Data Analysis,Data Cleaning,42,Present,2024-07-25
+1341,168,Amna Al Darmaki,Female,Data Analysis,SQL Basics,70,Present,2024-07-29
+1342,168,Amna Al Darmaki,Female,Data Analysis,Power BI,73,Present,2024-07-12
+1343,168,Amna Al Darmaki,Female,Data Analysis,Statistics,66,Present,2024-07-15
+1344,168,Amna Al Darmaki,Female,Data Analysis,SQL Basics,48,Absent,2024-08-06
+1345,169,Hessa Al Suwaidi,Female,Web Development,Forms,56,Present,2024-08-14
+1346,169,Hessa Al Suwaidi,Female,Web Development,HTML/CSS,52,Present,2024-07-23
+1347,169,Hessa Al Suwaidi,Female,Web Development,Forms,51,Present,2024-07-16
+1348,169,Hessa Al Suwaidi,Female,Web Development,Debugging,44,Present,2024-08-17
+1349,169,Hessa Al Suwaidi,Female,Web Development,JavaScript,56,Absent,2024-09-18
+1350,169,Hessa Al Suwaidi,Female,Web Development,Forms,51,Present,2024-08-24
+1351,169,Hessa Al Suwaidi,Female,Web Development,HTML/CSS,57,Absent,2024-08-26
+1352,169,Hessa Al Suwaidi,Female,Web Development,Forms,63,Present,2024-09-20
+1353,170,Latifa Al Mansoori,Female,Data Analysis,Power BI,67,Present,2024-08-01
+1354,170,Latifa Al Mansoori,Female,Data Analysis,Visualization,69,Absent,2024-07-11
+1355,170,Latifa Al Mansoori,Female,Data Analysis,Power BI,41,Present,2024-07-14
+1356,170,Latifa Al Mansoori,Female,Data Analysis,Data Cleaning,57,Present,2024-09-07
+1357,170,Latifa Al Mansoori,Female,Data Analysis,Data Cleaning,40,Present,2024-08-27
+1358,170,Latifa Al Mansoori,Female,Data Analysis,Data Cleaning,52,Present,2024-08-01
+1359,170,Latifa Al Mansoori,Female,Data Analysis,Excel,50,Absent,2024-08-20
+1360,170,Latifa Al Mansoori,Female,Data Analysis,Visualization,40,Present,2024-09-06
+1361,171,Aisha Al Hammadi,Female,IT Fundamentals,IT Support,63,Absent,2024-07-05
+1362,171,Aisha Al Hammadi,Female,IT Fundamentals,Hardware,53,Present,2024-07-31
+1363,171,Aisha Al Hammadi,Female,IT Fundamentals,Operating Systems,52,Absent,2024-08-12
+1364,171,Aisha Al Hammadi,Female,IT Fundamentals,Operating Systems,55,Present,2024-09-20
+1365,171,Aisha Al Hammadi,Female,IT Fundamentals,Troubleshooting,76,Present,2024-07-11
+1366,171,Aisha Al Hammadi,Female,IT Fundamentals,Hardware,66,Present,2024-08-10
+1367,171,Aisha Al Hammadi,Female,IT Fundamentals,Hardware,45,Present,2024-07-29
+1368,171,Aisha Al Hammadi,Female,IT Fundamentals,Troubleshooting,62,Present,2024-07-05
+1369,172,Hessa Al Qasimi,Female,Python Basics,Data Types,40,Present,2024-07-27
+1370,172,Hessa Al Qasimi,Female,Python Basics,Functions,50,Present,2024-08-14
+1371,172,Hessa Al Qasimi,Female,Python Basics,OOP,53,Present,2024-08-25
+1372,172,Hessa Al Qasimi,Female,Python Basics,Debugging,65,Present,2024-08-01
+1373,172,Hessa Al Qasimi,Female,Python Basics,Debugging,55,Absent,2024-09-18
+1374,172,Hessa Al Qasimi,Female,Python Basics,Debugging,55,Absent,2024-09-20
+1375,172,Hessa Al Qasimi,Female,Python Basics,Loops,55,Present,2024-08-14
+1376,172,Hessa Al Qasimi,Female,Python Basics,Debugging,49,Present,2024-08-21
+1377,173,Latifa Al Shehhi,Female,Python Basics,Functions,69,Present,2024-07-18
+1378,173,Latifa Al Shehhi,Female,Python Basics,Debugging,90,Present,2024-08-18
+1379,173,Latifa Al Shehhi,Female,Python Basics,Debugging,76,Present,2024-08-23
+1380,173,Latifa Al Shehhi,Female,Python Basics,Functions,100,Present,2024-08-28
+1381,173,Latifa Al Shehhi,Female,Python Basics,Data Types,87,Present,2024-07-12
+1382,173,Latifa Al Shehhi,Female,Python Basics,Debugging,74,Present,2024-08-07
+1383,173,Latifa Al Shehhi,Female,Python Basics,Files,100,Present,2024-07-28
+1384,173,Latifa Al Shehhi,Female,Python Basics,Files,92,Present,2024-09-02
+1385,174,Aisha Al Awadhi,Female,Data Analysis,SQL Basics,100,Present,2024-07-10
+1386,174,Aisha Al Awadhi,Female,Data Analysis,Visualization,100,Present,2024-07-25
+1387,174,Aisha Al Awadhi,Female,Data Analysis,Data Cleaning,83,Present,2024-09-08
+1388,174,Aisha Al Awadhi,Female,Data Analysis,Visualization,84,Present,2024-08-13
+1389,174,Aisha Al Awadhi,Female,Data Analysis,Excel,100,Present,2024-07-26
+1390,174,Aisha Al Awadhi,Female,Data Analysis,Power BI,87,Absent,2024-08-24
+1391,174,Aisha Al Awadhi,Female,Data Analysis,Visualization,68,Present,2024-09-13
+1392,174,Aisha Al Awadhi,Female,Data Analysis,Data Cleaning,72,Absent,2024-08-30
+1393,175,Aisha Al Darmaki,Female,Web Development,APIs,41,Present,2024-08-19
+1394,175,Aisha Al Darmaki,Female,Web Development,APIs,76,Present,2024-07-09
+1395,175,Aisha Al Darmaki,Female,Web Development,Responsive Design,59,Present,2024-09-17
+1396,175,Aisha Al Darmaki,Female,Web Development,Responsive Design,54,Present,2024-08-21
+1397,175,Aisha Al Darmaki,Female,Web Development,Responsive Design,49,Present,2024-08-02
+1398,175,Aisha Al Darmaki,Female,Web Development,Responsive Design,68,Present,2024-08-23
+1399,175,Aisha Al Darmaki,Female,Web Development,Forms,67,Present,2024-09-03
+1400,175,Aisha Al Darmaki,Female,Web Development,JavaScript,71,Present,2024-09-17
+1401,176,Mariam Al Ameri,Female,Web Development,APIs,74,Present,2024-09-22
+1402,176,Mariam Al Ameri,Female,Web Development,Forms,60,Absent,2024-08-08
+1403,176,Mariam Al Ameri,Female,Web Development,JavaScript,56,Present,2024-09-17
+1404,176,Mariam Al Ameri,Female,Web Development,APIs,76,Absent,2024-07-22
+1405,176,Mariam Al Ameri,Female,Web Development,APIs,77,Present,2024-09-07
+1406,176,Mariam Al Ameri,Female,Web Development,APIs,64,Present,2024-09-29
+1407,176,Mariam Al Ameri,Female,Web Development,Responsive Design,57,Present,2024-09-17
+1408,176,Mariam Al Ameri,Female,Web Development,Responsive Design,80,Present,2024-08-28
+1409,177,Noora Al Kaabi,Female,Python Basics,Functions,75,Absent,2024-09-12
+1410,177,Noora Al Kaabi,Female,Python Basics,OOP,81,Present,2024-08-11
+1411,177,Noora Al Kaabi,Female,Python Basics,Debugging,85,Present,2024-07-02
+1412,177,Noora Al Kaabi,Female,Python Basics,Functions,78,Present,2024-07-07
+1413,177,Noora Al Kaabi,Female,Python Basics,OOP,68,Absent,2024-08-10
+1414,177,Noora Al Kaabi,Female,Python Basics,Debugging,65,Absent,2024-09-11
+1415,177,Noora Al Kaabi,Female,Python Basics,Files,80,Present,2024-08-29
+1416,177,Noora Al Kaabi,Female,Python Basics,Functions,82,Present,2024-09-10
+1417,178,Amna Al Nahyan,Female,Web Development,HTML/CSS,50,Present,2024-09-16
+1418,178,Amna Al Nahyan,Female,Web Development,Forms,68,Present,2024-08-15
+1419,178,Amna Al Nahyan,Female,Web Development,APIs,70,Present,2024-09-05
+1420,178,Amna Al Nahyan,Female,Web Development,JavaScript,82,Present,2024-08-23
+1421,178,Amna Al Nahyan,Female,Web Development,HTML/CSS,68,Absent,2024-09-09
+1422,178,Amna Al Nahyan,Female,Web Development,Forms,84,Present,2024-07-27
+1423,178,Amna Al Nahyan,Female,Web Development,Debugging,66,Present,2024-09-08
+1424,178,Amna Al Nahyan,Female,Web Development,APIs,75,Present,2024-07-31
+1425,179,Hessa Al Darmaki,Female,IT Fundamentals,Troubleshooting,76,Present,2024-08-04
+1426,179,Hessa Al Darmaki,Female,IT Fundamentals,Hardware,69,Absent,2024-07-22
+1427,179,Hessa Al Darmaki,Female,IT Fundamentals,Operating Systems,75,Present,2024-07-24
+1428,179,Hessa Al Darmaki,Female,IT Fundamentals,Hardware,90,Present,2024-09-20
+1429,179,Hessa Al Darmaki,Female,IT Fundamentals,Operating Systems,63,Present,2024-08-07
+1430,179,Hessa Al Darmaki,Female,IT Fundamentals,Networking,67,Absent,2024-08-20
+1431,179,Hessa Al Darmaki,Female,IT Fundamentals,Networking,70,Present,2024-07-16
+1432,179,Hessa Al Darmaki,Female,IT Fundamentals,Hardware,68,Present,2024-09-01
+1433,180,Latifa Al Ketbi,Female,Web Development,Forms,97,Present,2024-08-06
+1434,180,Latifa Al Ketbi,Female,Web Development,HTML/CSS,94,Absent,2024-09-22
+1435,180,Latifa Al Ketbi,Female,Web Development,Responsive Design,100,Present,2024-07-03
+1436,180,Latifa Al Ketbi,Female,Web Development,Forms,88,Present,2024-09-09
+1437,180,Latifa Al Ketbi,Female,Web Development,Debugging,79,Present,2024-07-13
+1438,180,Latifa Al Ketbi,Female,Web Development,Responsive Design,81,Present,2024-09-10
+1439,180,Latifa Al Ketbi,Female,Web Development,Debugging,94,Present,2024-09-28
+1440,180,Latifa Al Ketbi,Female,Web Development,JavaScript,95,Present,2024-07-31
+1441,181,Latifa Al Marri,Female,IT Fundamentals,Operating Systems,70,Present,2024-08-08
+1442,181,Latifa Al Marri,Female,IT Fundamentals,Operating Systems,79,Present,2024-07-11
+1443,181,Latifa Al Marri,Female,IT Fundamentals,Operating Systems,91,Absent,2024-09-12
+1444,181,Latifa Al Marri,Female,IT Fundamentals,Security Basics,88,Present,2024-08-24
+1445,181,Latifa Al Marri,Female,IT Fundamentals,IT Support,71,Present,2024-07-20
+1446,181,Latifa Al Marri,Female,IT Fundamentals,Networking,77,Present,2024-08-31
+1447,181,Latifa Al Marri,Female,IT Fundamentals,Troubleshooting,89,Present,2024-08-02
+1448,181,Latifa Al Marri,Female,IT Fundamentals,Hardware,98,Present,2024-07-05
+1449,182,Shaikha Al Shehhi,Female,Python Basics,OOP,100,Present,2024-09-13
+1450,182,Shaikha Al Shehhi,Female,Python Basics,Loops,100,Present,2024-09-03
+1451,182,Shaikha Al Shehhi,Female,Python Basics,Files,81,Present,2024-07-23
+1452,182,Shaikha Al Shehhi,Female,Python Basics,Debugging,98,Present,2024-09-04
+1453,182,Shaikha Al Shehhi,Female,Python Basics,Files,100,Present,2024-07-04
+1454,182,Shaikha Al Shehhi,Female,Python Basics,Files,95,Present,2024-08-12
+1455,182,Shaikha Al Shehhi,Female,Python Basics,Debugging,87,Present,2024-07-22
+1456,182,Shaikha Al Shehhi,Female,Python Basics,Data Types,94,Present,2024-08-03
+1457,183,Fatima Al Darmaki,Female,IT Fundamentals,Operating Systems,76,Present,2024-09-03
+1458,183,Fatima Al Darmaki,Female,IT Fundamentals,Hardware,83,Present,2024-07-29
+1459,183,Fatima Al Darmaki,Female,IT Fundamentals,Operating Systems,95,Present,2024-08-26
+1460,183,Fatima Al Darmaki,Female,IT Fundamentals,Troubleshooting,82,Present,2024-07-19
+1461,183,Fatima Al Darmaki,Female,IT Fundamentals,Operating Systems,80,Present,2024-07-01
+1462,183,Fatima Al Darmaki,Female,IT Fundamentals,IT Support,97,Present,2024-08-15
+1463,183,Fatima Al Darmaki,Female,IT Fundamentals,Networking,88,Present,2024-07-13
+1464,183,Fatima Al Darmaki,Female,IT Fundamentals,Security Basics,99,Present,2024-08-29
+1465,184,Maryam Al Qubaisi,Female,Python Basics,OOP,88,Present,2024-07-17
+1466,184,Maryam Al Qubaisi,Female,Python Basics,Files,81,Present,2024-08-17
+1467,184,Maryam Al Qubaisi,Female,Python Basics,Functions,88,Absent,2024-07-20
+1468,184,Maryam Al Qubaisi,Female,Python Basics,Files,81,Present,2024-08-28
+1469,184,Maryam Al Qubaisi,Female,Python Basics,Debugging,73,Present,2024-07-24
+1470,184,Maryam Al Qubaisi,Female,Python Basics,Loops,90,Present,2024-07-09
+1471,184,Maryam Al Qubaisi,Female,Python Basics,Data Types,88,Present,2024-07-19
+1472,184,Maryam Al Qubaisi,Female,Python Basics,Loops,82,Absent,2024-09-01
+1473,185,Amna Al Balushi,Female,Data Analysis,Data Cleaning,80,Present,2024-07-07
+1474,185,Amna Al Balushi,Female,Data Analysis,Statistics,85,Present,2024-07-20
+1475,185,Amna Al Balushi,Female,Data Analysis,SQL Basics,86,Present,2024-07-21
+1476,185,Amna Al Balushi,Female,Data Analysis,Excel,100,Present,2024-09-01
+1477,185,Amna Al Balushi,Female,Data Analysis,Power BI,95,Present,2024-07-05
+1478,185,Amna Al Balushi,Female,Data Analysis,Power BI,100,Present,2024-07-26
+1479,185,Amna Al Balushi,Female,Data Analysis,Excel,70,Absent,2024-09-03
+1480,185,Amna Al Balushi,Female,Data Analysis,Excel,100,Present,2024-09-25
+1481,186,Maryam Al Balushi,Female,Data Analysis,Statistics,92,Present,2024-07-16
+1482,186,Maryam Al Balushi,Female,Data Analysis,Excel,81,Present,2024-08-23
+1483,186,Maryam Al Balushi,Female,Data Analysis,Visualization,63,Absent,2024-09-15
+1484,186,Maryam Al Balushi,Female,Data Analysis,Power BI,74,Absent,2024-07-24
+1485,186,Maryam Al Balushi,Female,Data Analysis,Statistics,82,Present,2024-09-21
+1486,186,Maryam Al Balushi,Female,Data Analysis,Power BI,87,Present,2024-08-16
+1487,186,Maryam Al Balushi,Female,Data Analysis,Visualization,72,Present,2024-09-17
+1488,186,Maryam Al Balushi,Female,Data Analysis,Power BI,100,Absent,2024-08-25
+1489,187,Amna Al Zaabi,Female,Web Development,Forms,80,Present,2024-09-03
+1490,187,Amna Al Zaabi,Female,Web Development,Debugging,79,Present,2024-08-08
+1491,187,Amna Al Zaabi,Female,Web Development,Debugging,93,Present,2024-08-20
+1492,187,Amna Al Zaabi,Female,Web Development,Debugging,75,Present,2024-07-03
+1493,187,Amna Al Zaabi,Female,Web Development,Debugging,68,Present,2024-07-05
+1494,187,Amna Al Zaabi,Female,Web Development,JavaScript,73,Present,2024-09-18
+1495,187,Amna Al Zaabi,Female,Web Development,JavaScript,87,Present,2024-08-09
+1496,187,Amna Al Zaabi,Female,Web Development,Responsive Design,50,Present,2024-07-15
+1497,188,Maryam Al Awadhi,Female,Web Development,Responsive Design,80,Present,2024-07-25
+1498,188,Maryam Al Awadhi,Female,Web Development,HTML/CSS,100,Present,2024-08-02
+1499,188,Maryam Al Awadhi,Female,Web Development,Debugging,90,Absent,2024-09-16
+1500,188,Maryam Al Awadhi,Female,Web Development,APIs,87,Present,2024-09-28
+1501,188,Maryam Al Awadhi,Female,Web Development,JavaScript,89,Present,2024-08-17
+1502,188,Maryam Al Awadhi,Female,Web Development,JavaScript,85,Present,2024-09-22
+1503,188,Maryam Al Awadhi,Female,Web Development,APIs,72,Present,2024-09-17
+1504,188,Maryam Al Awadhi,Female,Web Development,Responsive Design,82,Present,2024-07-10
+1505,189,Mariam Al Mansoori,Female,Data Analysis,SQL Basics,68,Absent,2024-08-28
+1506,189,Mariam Al Mansoori,Female,Data Analysis,Data Cleaning,80,Present,2024-07-29
+1507,189,Mariam Al Mansoori,Female,Data Analysis,Excel,46,Absent,2024-07-02
+1508,189,Mariam Al Mansoori,Female,Data Analysis,Power BI,67,Present,2024-07-17
+1509,189,Mariam Al Mansoori,Female,Data Analysis,Visualization,96,Present,2024-09-09
+1510,189,Mariam Al Mansoori,Female,Data Analysis,Power BI,64,Present,2024-09-10
+1511,189,Mariam Al Mansoori,Female,Data Analysis,Excel,65,Present,2024-08-05
+1512,189,Mariam Al Mansoori,Female,Data Analysis,Visualization,67,Present,2024-07-03
+1513,190,Shaikha Al Kaabi,Female,Data Analysis,Excel,71,Absent,2024-07-21
+1514,190,Shaikha Al Kaabi,Female,Data Analysis,Data Cleaning,54,Present,2024-08-15
+1515,190,Shaikha Al Kaabi,Female,Data Analysis,SQL Basics,83,Present,2024-07-22
+1516,190,Shaikha Al Kaabi,Female,Data Analysis,Power BI,63,Absent,2024-07-24
+1517,190,Shaikha Al Kaabi,Female,Data Analysis,Excel,64,Present,2024-07-01
+1518,190,Shaikha Al Kaabi,Female,Data Analysis,Visualization,66,Absent,2024-07-24
+1519,190,Shaikha Al Kaabi,Female,Data Analysis,Power BI,77,Present,2024-07-31
+1520,190,Shaikha Al Kaabi,Female,Data Analysis,Data Cleaning,55,Present,2024-07-04
+1521,191,Aisha Al Ameri,Female,Web Development,Debugging,88,Present,2024-07-05
+1522,191,Aisha Al Ameri,Female,Web Development,Forms,92,Present,2024-08-21
+1523,191,Aisha Al Ameri,Female,Web Development,Responsive Design,91,Present,2024-08-08
+1524,191,Aisha Al Ameri,Female,Web Development,Responsive Design,85,Present,2024-08-26
+1525,191,Aisha Al Ameri,Female,Web Development,HTML/CSS,91,Present,2024-08-05
+1526,191,Aisha Al Ameri,Female,Web Development,Responsive Design,83,Present,2024-07-08
+1527,191,Aisha Al Ameri,Female,Web Development,Responsive Design,92,Present,2024-09-24
+1528,191,Aisha Al Ameri,Female,Web Development,Responsive Design,86,Absent,2024-08-18
+1529,192,Fatima Al Zaabi,Female,Data Analysis,Excel,79,Absent,2024-09-08
+1530,192,Fatima Al Zaabi,Female,Data Analysis,Excel,80,Present,2024-07-30
+1531,192,Fatima Al Zaabi,Female,Data Analysis,Excel,81,Present,2024-09-17
+1532,192,Fatima Al Zaabi,Female,Data Analysis,Statistics,84,Absent,2024-07-31
+1533,192,Fatima Al Zaabi,Female,Data Analysis,Data Cleaning,77,Absent,2024-07-08
+1534,192,Fatima Al Zaabi,Female,Data Analysis,Excel,74,Present,2024-09-08
+1535,192,Fatima Al Zaabi,Female,Data Analysis,Excel,73,Present,2024-07-07
+1536,192,Fatima Al Zaabi,Female,Data Analysis,Visualization,73,Present,2024-08-25
+1537,193,Noora Al Zaabi,Female,Python Basics,OOP,84,Present,2024-07-17
+1538,193,Noora Al Zaabi,Female,Python Basics,Data Types,76,Present,2024-07-26
+1539,193,Noora Al Zaabi,Female,Python Basics,Files,100,Present,2024-09-17
+1540,193,Noora Al Zaabi,Female,Python Basics,Files,95,Present,2024-08-08
+1541,193,Noora Al Zaabi,Female,Python Basics,Data Types,73,Absent,2024-08-28
+1542,193,Noora Al Zaabi,Female,Python Basics,OOP,60,Present,2024-09-01
+1543,193,Noora Al Zaabi,Female,Python Basics,Data Types,74,Absent,2024-08-02
+1544,193,Noora Al Zaabi,Female,Python Basics,Loops,78,Present,2024-07-12
+1545,194,Aisha Al Ketbi,Female,Data Analysis,Visualization,73,Present,2024-07-13
+1546,194,Aisha Al Ketbi,Female,Data Analysis,Data Cleaning,57,Present,2024-07-19
+1547,194,Aisha Al Ketbi,Female,Data Analysis,Statistics,79,Present,2024-07-13
+1548,194,Aisha Al Ketbi,Female,Data Analysis,Excel,50,Present,2024-09-07
+1549,194,Aisha Al Ketbi,Female,Data Analysis,Power BI,84,Present,2024-08-30
+1550,194,Aisha Al Ketbi,Female,Data Analysis,Excel,77,Present,2024-09-02
+1551,194,Aisha Al Ketbi,Female,Data Analysis,SQL Basics,84,Present,2024-07-28
+1552,194,Aisha Al Ketbi,Female,Data Analysis,SQL Basics,80,Present,2024-07-14
+1553,195,Latifa Al Neyadi,Female,IT Fundamentals,Hardware,90,Present,2024-09-19
+1554,195,Latifa Al Neyadi,Female,IT Fundamentals,IT Support,70,Present,2024-07-22
+1555,195,Latifa Al Neyadi,Female,IT Fundamentals,Hardware,92,Present,2024-08-27
+1556,195,Latifa Al Neyadi,Female,IT Fundamentals,Networking,93,Present,2024-07-22
+1557,195,Latifa Al Neyadi,Female,IT Fundamentals,IT Support,79,Present,2024-08-20
+1558,195,Latifa Al Neyadi,Female,IT Fundamentals,IT Support,100,Present,2024-08-23
+1559,195,Latifa Al Neyadi,Female,IT Fundamentals,Operating Systems,89,Present,2024-09-04
+1560,195,Latifa Al Neyadi,Female,IT Fundamentals,Security Basics,91,Present,2024-09-05
+1561,196,Shaikha Al Awadhi,Female,Data Analysis,Power BI,83,Present,2024-09-13
+1562,196,Shaikha Al Awadhi,Female,Data Analysis,Visualization,79,Present,2024-07-23
+1563,196,Shaikha Al Awadhi,Female,Data Analysis,SQL Basics,83,Present,2024-07-10
+1564,196,Shaikha Al Awadhi,Female,Data Analysis,Excel,79,Present,2024-08-10
+1565,196,Shaikha Al Awadhi,Female,Data Analysis,SQL Basics,82,Present,2024-09-16
+1566,196,Shaikha Al Awadhi,Female,Data Analysis,Data Cleaning,97,Present,2024-09-07
+1567,196,Shaikha Al Awadhi,Female,Data Analysis,Power BI,100,Present,2024-09-21
+1568,196,Shaikha Al Awadhi,Female,Data Analysis,SQL Basics,99,Present,2024-07-03
+1569,197,Noora Al Ketbi,Female,Web Development,HTML/CSS,63,Present,2024-08-30
+1570,197,Noora Al Ketbi,Female,Web Development,Responsive Design,52,Present,2024-07-07
+1571,197,Noora Al Ketbi,Female,Web Development,Forms,69,Present,2024-07-07
+1572,197,Noora Al Ketbi,Female,Web Development,Debugging,72,Present,2024-09-08
+1573,197,Noora Al Ketbi,Female,Web Development,HTML/CSS,56,Present,2024-08-18
+1574,197,Noora Al Ketbi,Female,Web Development,Responsive Design,62,Present,2024-09-08
+1575,197,Noora Al Ketbi,Female,Web Development,HTML/CSS,53,Present,2024-09-13
+1576,197,Noora Al Ketbi,Female,Web Development,APIs,55,Present,2024-08-03
+1577,198,Maryam Al Balushi,Female,IT Fundamentals,Hardware,81,Present,2024-07-21
+1578,198,Maryam Al Balushi,Female,IT Fundamentals,Operating Systems,57,Present,2024-08-04
+1579,198,Maryam Al Balushi,Female,IT Fundamentals,Operating Systems,87,Present,2024-08-05
+1580,198,Maryam Al Balushi,Female,IT Fundamentals,Troubleshooting,54,Present,2024-09-15
+1581,198,Maryam Al Balushi,Female,IT Fundamentals,Operating Systems,92,Present,2024-07-28
+1582,198,Maryam Al Balushi,Female,IT Fundamentals,Troubleshooting,70,Present,2024-08-07
+1583,198,Maryam Al Balushi,Female,IT Fundamentals,Operating Systems,85,Present,2024-08-04
+1584,198,Maryam Al Balushi,Female,IT Fundamentals,Hardware,72,Present,2024-08-10
+1585,199,Amna Al Qasimi,Female,Web Development,Forms,62,Present,2024-07-28
+1586,199,Amna Al Qasimi,Female,Web Development,Debugging,40,Present,2024-09-09
+1587,199,Amna Al Qasimi,Female,Web Development,HTML/CSS,64,Present,2024-08-07
+1588,199,Amna Al Qasimi,Female,Web Development,Responsive Design,51,Present,2024-07-03
+1589,199,Amna Al Qasimi,Female,Web Development,APIs,56,Present,2024-07-15
+1590,199,Amna Al Qasimi,Female,Web Development,JavaScript,50,Present,2024-08-10
+1591,199,Amna Al Qasimi,Female,Web Development,APIs,77,Present,2024-08-21
+1592,199,Amna Al Qasimi,Female,Web Development,APIs,69,Present,2024-08-16
+1593,200,Fatima Al Mansoori,Female,Web Development,JavaScript,66,Present,2024-07-16
+1594,200,Fatima Al Mansoori,Female,Web Development,Debugging,69,Present,2024-07-12
+1595,200,Fatima Al Mansoori,Female,Web Development,Debugging,86,Present,2024-09-15
+1596,200,Fatima Al Mansoori,Female,Web Development,Debugging,85,Present,2024-08-28
+1597,200,Fatima Al Mansoori,Female,Web Development,Debugging,85,Present,2024-08-24
+1598,200,Fatima Al Mansoori,Female,Web Development,Responsive Design,79,Present,2024-09-02
+1599,200,Fatima Al Mansoori,Female,Web Development,Responsive Design,89,Present,2024-08-21
+1600,200,Fatima Al Mansoori,Female,Web Development,JavaScript,79,Present,2024-08-30
